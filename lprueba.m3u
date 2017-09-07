@@ -1,0 +1,994 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",Game Snake Land (soluciones y utilidades) Spain
+https://www.youtube.com/watch?v=G_l-vHuiwhI
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",suscribete a mi canal de yotube !!!!
+https://www.youtube.com/channel/UCTFgMnGd7eFIO1FMk6NiOSw
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-eYke2kBD9U8/AAAAAAAAAAI/AAAAAAAAAAA/3KiFE_DcHSA/s100-c-k-no-mo-rj-c0xffffff/photo.jpg",para mas canales GRATIS !!!!
+https://www.youtube.com/channel/UCTFgMnGd7eFIO1FMk6NiOSw	
+
+
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8
+#EXTINF:0,LASEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0,AtreSeries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8
+#EXTINF:0,13TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+#EXTINF:0,CyL7
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+#EXTINF:0,Telemadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+#EXTINF:0,LaOtra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+#EXTINF:0,TvGalicia
+http://media3.crtvg.es/live/tvge/chunklist_w1197448955.m3u8
+#EXTINF:0,CanalExtremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,Castilla-LaManchaTv
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/chunklist.m3u8
+#EXTINF:0,AndaluciaTv
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,CANALSURAndalucia
+http://195.55.74.208/rtva/andaluciatelevision-iphone/stream.m3u8
+#EXTINF:0,7TVMURCIA
+rtmp://flash0.80670-live0.dna.qbrick.com/80670-live0/murciatv
+#EXTINF:0,RTPAAsturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,RtvCe
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0,8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
+#EXTINF:0,PopularTvCantabria
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+#EXTINF:0,eitbEuskadi
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8
+#EXTINF:0,HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:0,ESPECIALViajar
+http://194.179.53.124:1935/live/myStream_2/playlist.m3u8
+#EXTINF:0,BETISTV
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+#EXTINF:0,SEXTATION
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
+#EXTINF:0,A3SERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,ANTENA3
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+
+#EXTINF:-1, ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta/lasexta_1@35272/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, 24 HORAS TVE
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live/stream2.m3u8
+
+#EXTINF:-1, MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, ATRESERIES HD
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_2_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1, REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, CANAL PARLAMENTO
+http://congresodirectomobile.edgesuite.net/live/live6.stream/chunklist_w6675369_DVR.m3u8
+
+#EXTINF:-1, CANAL EXTREMADURA
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+
+#EXTINF:-1, TELEMADRD
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
+
+#EXTINF:-1, LA OTRA
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live/stream1.m3u8
+
+#EXTINF:-1, HIT TV
+http://livetok.flash.glb.ipercast.net/tok.tst.es-live/live/chunklist_w456601522.m3u8?id=trNKMYZ8eeS14Lx0uBZ1bfTFsWg_WXp-gstK8ITBkMnQIDBpgi1e
+
+#EXTINF:-1, INTERECONOMIA
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1991986513_b500000.m3u8
+
+#EXTINF:-1, TVG EUROPA
+http://media3.crtvg.es/live/tvge/chunklist_w1728723684.m3u8
+
+#EXTINF:-1, TVG AMÉRICA
+http://media3.crtvg.es/live/_definst_/tvga_2/chunklist_w2022272197.m3u8
+
+#EXTINF:-1, POPULAR TV CANTABRIA
+http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
+
+#EXTINF:-1, ETB EUSKADI
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_1048_av-p.m3u8?sd=8&rebase=on
+
+#EXTINF:-1, NAVARRA TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/chunklist_w605667087.m3u8
+
+#EXTINF:-1, ARAGON TV
+http://195.55.74.210/aragontv/hls-live/chunklist.m3u8?GKID=b5f128a604c911e7a82c00163ea2c744
+
+#EXTINF:-1, TV3 CAT
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1, 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:-1, 8 TV
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1421144122.m3u8
+
+#EXTINF:-1, TV MEDITERRÁNEO
+http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/chunklist_w1502553090_b850000.m3u8
+
+#EXTINF:-1, IB3 TV
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8
+
+
+#EXTINF:-1 tvg-id="Investigación Discovery" tvg-name="Investigación Discovery" tvg-logo="http://y.cdn.entutele.com/media/channels/big/investigación-discovery.gif" group-title="ENTRETENIMIENTO",Investigation Discovery  
+http://xc.cobra-iptv.com:25461/live/irankanalen/irankanalen/1738.ts
+
+
+
+
+#EXTVLCOPT:DLNA.ORG: 1 (Game Snake Land S. y L.)(p2) (Game Snake Land S. y L.)
+http://37.187.128.169:8000/live/oaddddoPSIN/skdjf445aaffsin/107.ts
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DARK (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/buzzrojo.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,XTRM (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/xtrm.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,XTRM HD (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/xtreme.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Somos (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/somos.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Hollywood (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/hollywood.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Hollywood HD (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/hollywood.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Paramount (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/paramount.sd.ird/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Decasa (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/decasa.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Decasa HD (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/decasa.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DKISS (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/dkiss.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Panda (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/panda.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney Junior (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/disneyjnr.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nick Junior (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/nickjnr.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney Channel (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/disneychannel.sd.ird/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Disney XD (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/disneyxd.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Boing (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/boing.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Clan (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/clan.SD.ird/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Nickelodeon (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/nickelodeon.SD.IRD/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal 24 Horas (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/24h.SD.ird/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Canal Sur (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/canalsur.SD.xtra/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Telemadrid HD (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/telemadrid.HD.xtra/mono.m3u8
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TV3 (p1) (Game Snake Land S. y L.)
+http://flus1.sanpedrowifi.com/live/tv3.SD.xtra/mono.m3u8
+
+#EXTM3U
+#EXTINF:-1,laSexta HD (Game snake Land s y l)
+http://37.152.128.66:3000/play/a005
+#EXTINF:-1,laSexta (Game snake Land s y l)
+http://37.152.128.66:3000/play/a006
+#EXTINF:-1,antena3 HD (Game snake Land s y l)
+http://37.152.128.66:3000/play/a003
+#EXTINF:-1,nova (Game snake Land s y l)
+http://37.152.128.66:3000/play/a008
+#EXTINF:-1,neox (Game snake Land s y l)
+http://37.152.128.66:3000/play/a007
+#EXTINF:-1,antena3 (Game snake Land s y l)
+http://37.152.128.66:3000/play/a004
+
+#EXTINF:-1,HISTORIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch37
+#EXTINF:-1,CANAL SUR (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch38
+#EXTINF:-1,DISNEY XD (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch39
+#EXTINF:-1,24H (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch40
+#EXTINF:-1,A&E (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch41
+#EXTINF:-1,CAZAyPESCA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch42
+#EXTINF:-1,COSMO (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch43
+#EXTINF:-1,C/I (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch44
+#EXTINF:-1,DISCOVERY (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch45
+#EXTINF:-1,CineÑ (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch46
+#EXTINF:-1,MOTOGP (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch47
+#EXTINF:-1,NON STOP PEOPLE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch48
+#EXTINF:-1,DOSNEY JUNIOR (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch49
+#EXTINF:-1,#0 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch50
+#EXTINF:-1,AXN (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch51
+#EXTINF:-1,AXN WHITE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch52
+#EXTINF:-1,FOX (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch53
+#EXTINF:-1,FOX LIFE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch54
+#EXTINF:-1,IBERALIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch55
+#EXTINF:-1,ACCION (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch56
+#EXTINF:-1,COMEDIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch57
+#EXTINF:-1,DCINE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch58
+#EXTINF:-1,NOVA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch59
+#EXTINF:-1,RM TV (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch60
+#EXTINF:-1,ARAGON TV (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch61
+#EXTINF:-1,PANDA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch62
+#EXTINF:-1,ANTENA3 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch63
+#EXTINF:-1,CLASSICA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch64
+#EXTINF:-1,EUROSPORT2 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch65
+#EXTINF:-1,DEPORTES2 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch66
+#EXTINF:-1,NEOX (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch67
+#EXTINF:-1,PARAMOUNT CHANNE (p2) (Game Snake Land S. y L.)L
+http://90.229.173.167:9000/ch68
+
+#EXTINF:-1,DCINE Español
+http://bit.ly/2sX0gUg
+
+#EXTINF:-1,HISTORIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch37
+#EXTINF:-1,CANAL SUR (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch38
+#EXTINF:-1,DISNEY XD (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch39
+#EXTINF:-1,24 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch40
+#EXTINF:-1,A&E (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch41
+#EXTINF:-1,CAZAyPESCA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch42
+#EXTINF:-1,COSMO (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch43
+#EXTINF:-1,C/I (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch44
+#EXTINF:-1,DISCOVERY (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch45
+#EXTINF:-1,CineÑ (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch46
+#EXTINF:-1,MOTOGP (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch47
+#EXTINF:-1,NON STOP PEOPLE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch48
+#EXTINF:-1,DOSNEY JUNIOR (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch49
+#EXTINF:-1,#0 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch50
+#EXTINF:-1,AXN (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch51
+#EXTINF:-1,AXN WHITE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch52
+#EXTINF:-1,FOX (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch53
+#EXTINF:-1,FOX LIFE
+hhtp://90.229.173.167:9000/ch54
+#EXTINF:-1,IBERALIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch55
+#EXTINF:-1,ACCION (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch56
+#EXTINF:-1,COMEDIA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch57
+#EXTINF:-1,DCINE (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch58
+#EXTINF:-1,NOVA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch59
+#EXTINF:-1,RM TV (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch60
+#EXTINF:-1,ARAGON TV (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch61
+#EXTINF:-1,PANDA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch62
+#EXTINF:-1,ANTENA3 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch63
+#EXTINF:-1,CLASSICA (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch64
+#EXTINF:-1,EUROSPORT2 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch65
+#EXTINF:-1,DEPORTES2 (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch66
+#EXTINF:-1,NEOX (p2) (Game Snake Land S. y L.)
+http://90.229.173.167:9000/ch67
+#EXTINF:-1,PARAMOUNT CHANNE (p2) (Game Snake Land S. y L.)L
+http://90.229.173.167:9000/ch68
+
+
+
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , #0 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12532.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , 3/24   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7642.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , 24 Horas   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13003.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , 40 TV   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12534.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , AMC HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15421.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Andalucia TV   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7640.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Antena 3   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15474.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Antena 3 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7710.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , AXN   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7709.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , AXN HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7653.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , AXN WHITE HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7708.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Azteca Noticias   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7638.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Barca TV   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7662.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , beIN La Liga   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12497.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Bein LaLiga HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13709.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Bein La Liga HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/16981.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15453.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 1 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15450.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15454.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 2 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15451.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 3   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15455.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 3 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15452.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 4   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15456.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 5   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15457.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 6   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15458.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 7   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15459.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN MAX 8   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15460.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BeIN Sports FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13279.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , BEIN SPORTS HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15440.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Boing   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7707.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , CALLE 13 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7705.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal+ Liga   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7715.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal 2 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7634.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal 3 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7633.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal 7 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7631.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal 41 Mar Del   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7632.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal Cocina   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7629.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal Costa   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7628.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Canal De Las Estrellas   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7627.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Caza Y Pesca HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7688.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Clan TVE   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7720.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Comedy Central.   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7687.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Comedy Central HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13710.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Cosmo   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7621.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Cosmo HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13704.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Crime + Investigation   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13004.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Cuatro.   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7686.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , CUATRO HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15411.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Discovery Channel   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7620.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Disney Channel   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7684.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Disney Channel HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15910.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Disney Jr.   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7683.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , DISNEY XD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7682.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , DIVINITY   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7714.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Energy   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7681.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Eurosport 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7680.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Eurosport 1 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15439.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Eurosport 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15475.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Fdf   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7679.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Fox.   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7678.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , FOX FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7643.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , FOX LIFE   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7677.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Fox Life HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13711.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Gol TV   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7702.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , HISTORIA   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7676.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Hollywood FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7689.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , IBERALIA TV   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15425.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15907.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA 1 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7661.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7660.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15441.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA BAR TV 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15430.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15428.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 1 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15442.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 2 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15443.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 3 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15444.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 4 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15445.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 5 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15446.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 6 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15447.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 7 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15448.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV 8 SD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15449.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , La Liga TV Bar   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13006.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , LA LIGA TV BAR HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15429.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , La Sexta   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15909.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , La Sexta HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7674.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Accion   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7698.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. ACCION HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15415.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Comedia   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7697.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. COMEDIA FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15416.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Dcine   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7652.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. DCINE HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15417.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. DEPORTES 1 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15434.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Deportes 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12545.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. DEPORTES 2 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15435.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Depotes 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13009.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M.Estrenos   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7703.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. ESTRENOS FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15414.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Formula 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7617.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Formula 1 HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15437.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Futbol   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13008.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M.  FUTBOL FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15433.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. GOLF   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13010.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. GOLF HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15436.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" ,  M. MOTO GP   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15438.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. MotoGp HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7616.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. PARTIDAZO HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15431.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Series   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7691.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. SERIES HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15419.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. Series Xtra   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7690.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. SERIES XTRA HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15420.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. XTRA   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7649.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , M. XTRA FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15418.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Mega Tv HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7713.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , MTV Espana   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12535.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , MULTIDEPORTES 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15461.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , MULTIDEPORTES 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15462.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , MULTIDEPORTES 3   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15463.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , MULTIDEPORTES 4   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15464.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , National Geo   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7671.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , National Geo HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13706.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , National Geo Wild   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7672.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , National Geo Wild HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/13707.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Neox   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/14970.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , NICKELODEON HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7669.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Nick Jr.   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7670.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , NON STOP PEOPLE   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15427.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , NOVA   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7668.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , PARAMOUNT   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7716.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Proyecto 40   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7667.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Real Madrid   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7614.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Sol Musica   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7721.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , SYFY   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7666.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , SYFY HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7594.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7612.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 2   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7610.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 3   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7609.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 4   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7608.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 5   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7607.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 6   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7606.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 7   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7605.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 8   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7604.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 9   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7603.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Taquilla 10   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7611.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TCM   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7665.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TCM HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15423.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TELECINCO   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/10008.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TELECINCO FHD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15412.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Teledeporte   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7658.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TELEVISA HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7657.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TNT   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7663.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TNT HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15422.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TOROS HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/15424.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Toros Tv   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7701.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , TV Galicia   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7601.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , VH1   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/7591.m3u8
+#EXTINF:-1  group-title="Game Snake Land (soluciones y utilidades) Spain" , Viajar HD   (P3)
+http://Tv.iptvsensation.com:6500/live/nma5gRELq9/sdJAf6b9IZ/12542.m3u8
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,mega p5 (Game Snake Land S. y L.)
+https://tinyurl.com/y7omf5pt
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,nova p5 (Game Snake Land S. y L.)
+https://tinyurl.com/yc34gp3x
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,neox p5 (Game Snake Land S. y L.)
+https://tinyurl.com/yc5m237c
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,tnt p5 (Game Snake Land S. y L.)
+https://tinyurl.com/y78gar5m
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,dark p5 (Game Snake Land S. y L.)
+https://tinyurl.com/y79mlb7z
+
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOX (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a010
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,APPALCO (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00v
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,MTVPortugal (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01f
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXNWHITE (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00w
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Globo (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a018
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.ACCI©N (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00r
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,HOLLYWOOD (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01n
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DiscoveryChannel (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01h
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA1 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01s
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SportTV4 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01c
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SportTV1 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01j
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVRecord (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a017
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Hollywood (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01e
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NOVA (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00y
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FDF (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01u
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SportTV3 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01a
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,NATGEOWILD (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01p
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CLANTVE (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01q
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,BTV1 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a002
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,AXN (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00x
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Odisseia (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01i
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,DISNEYJR (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00q
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TELECINCO (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01l
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVI24 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a019
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA***TA (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01m
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CUATRO (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01r
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.COMEDIA (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00s
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,LA2 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01v
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,IBERALIATV (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00p
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.DCINE (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00t
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,Eurosport (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01d
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TNT (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01t
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,C+XTRA (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01o
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,CanaldeHistðria (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01g
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,FOXLIFE (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a00z
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,M.XTRA (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01w
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,TVRecord (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a01b
+#EXTINF:-1 group-title="Game Snake Land (soluciones y utilidades) Spain" ,SportTV2 (p4) (Game Snake Land S. y L.)
+http://185.26.174.67:44444/play/a016
+
+#EXTINF:-1,#0 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/198.ts
+#EXTINF:-1,LA 1 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/210.ts
+#EXTINF:-1,LA 2 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/359.ts
+#EXTINF:-1,ANTENA 3 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/216.ts
+#EXTINF:-1,CUATRO HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/212.ts
+#EXTINF:-1,TELECINCO HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/200.ts
+#EXTINF:-1,LA SEXTA HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/218.ts
+#EXTINF:-1,FOX LIFE HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/191.ts
+#EXTINF:-1,FOX HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/219.ts
+#EXTINF:-1,AXN WHITE HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/214.ts
+#EXTINF:-1,AXN HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/215.ts
+#EXTINF:-1,HOLLYWOODHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/211.ts
+#EXTINF:-1,M.ESTRENOSHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/203.ts
+#EXTINF:-1,M.COMEDIA HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/204.ts
+#EXTINF:-1,M. XTRA HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/205.ts
+#EXTINF:-1,M. SeriesXtraHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/187.ts
+#EXTINF:-1,M. SERIES HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/188.ts
+#EXTINF:-1,M. DCINE HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/208.ts
+#EXTINF:-1,M. ACCI©N HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/209.ts
+#EXTINF:-1,SYFY HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/201.ts
+#EXTINF:-1,TNT HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/182.ts
+#EXTINF:-1,TCM HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/183.ts
+#EXTINF:-1,AMC HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/217.ts
+#EXTINF:-1,FDF (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/381.ts
+#EXTINF:-1,CLAN TVE (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/382.ts
+#EXTINF:-1,NICKELODEONHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/184.ts
+#EXTINF:-1,COSMO HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/194.ts
+#EXTINF:-1,COMEDYCENTRALHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/195.ts
+#EXTINF:-1,CALLE 13 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/196.ts
+#EXTINF:-1,MEZZO LIVE HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/380.ts
+#EXTINF:-1,BEIN SPORT HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/197.ts
+#EXTINF:-1,BEIN LALIGA HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/213.ts
+#EXTINF:-1,LALIGA TV BAR HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/360.ts
+#EXTINF:-1,MOVISTAR  PARTIDAZO  (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/337.ts
+#EXTINF:-1,M.MOTOGPHD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/220.ts
+#EXTINF:-1,M.FORMULA1HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/202.ts
+#EXTINF:-1,M. GOLF HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/189.ts
+#EXTINF:-1,M. F.TBOL HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/206.ts
+#EXTINF:-1,M. DEP 2 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/207.ts
+#EXTINF:-1,M. DEP 1 HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/190.ts
+#EXTINF:-1,GOL TV (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/357.ts
+#EXTINF:-1,R. MADRID TV (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/242.ts
+#EXTINF:-1,BARCA TV (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/259.ts
+#EXTINF:-1,EUROSPORT1HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/192.ts
+#EXTINF:-1,EUROSPORT 2 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/355.ts
+#EXTINF:-1,TOROS TV HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/379.ts
+#EXTINF:-1,BEINLALIGA1 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/384.ts
+#EXTINF:-1,BEINLALIGA2 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/383.ts
+#EXTINF:-1,BEIN MAX 1 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/386.ts
+#EXTINF:-1,BEIN MAX 2 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/385.ts
+#EXTINF:-1,NG WILD HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/185.ts
+#EXTINF:-1,VIAJAR HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/199.ts
+#EXTINF:-1,NAT GEO HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/186.ts
+#EXTINF:-1,CAZA Y PESCA HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/348.ts
+#EXTINF:-1,BABY TV (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/260.ts
+#EXTINF:-1,DISNEY CH HD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/193.ts
+#EXTINF:-1,24 HORAS (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/263.ts
+#EXTINF:-1,NEOX (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/243.ts
+#EXTINF:-1,M. Cine Espaæol (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/245.ts
+#EXTINF:-1,LTC (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/246.ts
+#EXTINF:-1,PARAMOUNT (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/375.ts
+#EXTINF:-1,CANAL ODISEA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/345.ts
+#EXTINF:-1,CANAL DECASA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/343.ts
+#EXTINF:-1,NONSTOPEOPLE (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/373.ts
+#EXTINF:-1,MTV ESPA¹A (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/244.ts
+#EXTINF:-1,HISTORIA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/247.ts
+#EXTINF:-1,DIVINITY (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/250.ts
+#EXTINF:-1,DISNEY XD (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/251.ts
+#EXTINF:-1,DISCOVERY (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/252.ts
+#EXTINF:-1,CRIMEN INVES (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/253.ts
+#EXTINF:-1,CLASSICA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/254.ts
+#EXTINF:-1,CANAL SUR A. (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/256.ts
+#EXTINF:-1,CANAL PANDA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/257.ts
+#EXTINF:-1,BOING (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/258.ts
+#EXTINF:-1,ARAGON TV (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/261.ts
+#EXTINF:-1,A&E (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/262.ts
+#EXTINF:-1,C&I (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/341.ts
+#EXTINF:-1,ENERGY (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/352.ts
+#EXTINF:-1,SUNDANCE (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/393.ts
+#EXTINF:-1,NIck JR (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/392.ts
+#EXTINF:-1,M. deport (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/391.ts
+#EXTINF:-1,FOX NEWS (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/389.ts
+#EXTINF:-1,DISNEY PIXAR (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/390.ts
+#EXTINF:-1,CANAL ORBE21 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/388.ts
+#EXTINF:-1,CANAL COCINA (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/387.ts
+#EXTINF:-1,TAQUILLA_1 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/86.ts
+#EXTINF:-1,TAQUILLA_2 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/87.ts
+#EXTINF:-1,TAQUILLA_3 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/88.ts
+#EXTINF:-1,TAQUILLA_4 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/89.ts
+#EXTINF:-1,TAQUILLA_5 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/90.ts
+#EXTINF:-1,TAQUILLA_6 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/91.ts
+#EXTINF:-1,TAQUILLA_7 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/92.ts
+#EXTINF:-1,TAQUILLA_8 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/93.ts
+#EXTINF:-1,TAQUILLA_9 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/94.ts
+#EXTINF:-1,TAQUILLA_10 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/95.ts
+#EXTINF:-1,TAQUILLA_11 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/96.ts
+#EXTINF:-1,TAQUILLA_12 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/97.ts
+#EXTINF:-1,TAQUILLA_13 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/98.ts
+#EXTINF:-1,TAQUILLA_14 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/99.ts
+#EXTINF:-1,TAQUILLA_15 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/100.ts
+#EXTINF:-1,TAQUILLA_16 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/101.ts
+#EXTINF:-1,TAQUILLA_17 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/102.ts
+#EXTINF:-1,TAQUILLA_18 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/103.ts
+#EXTINF:-1,TAQUILLA_19 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/104.ts
+#EXTINF:-1,TAQUILLA_20 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/105.ts
+#EXTINF:-1,TAQUILLA_21 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/106.ts
+#EXTINF:-1,TAQUILLA_22 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/107.ts
+#EXTINF:-1,TAQUILLA_23 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/108.ts
+#EXTINF:-1,TAQUILLA_24 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/109.ts
+#EXTINF:-1,TAQUILLA_25 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/110.ts
+#EXTINF:-1,TAQUILLA_26 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/111.ts
+#EXTINF:-1,TAQUILLA_27 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/112.ts
+#EXTINF:-1,TAQUILLA_28 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/113.ts
+#EXTINF:-1,TAQUILLA_29 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/114.ts
+#EXTINF:-1,TAQUILLA_30 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/115.ts
+#EXTINF:-1,TAQUILLA_31 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/116.ts
+#EXTINF:-1,TAQUILLA_32 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/117.ts
+#EXTINF:-1,TAQUILLA_33 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/118.ts
+#EXTINF:-1,TAQUILLA_34 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/119.ts
+#EXTINF:-1,TAQUILLA_35 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/120.ts
+#EXTINF:-1,TAQUILLA_36 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/121.ts
+#EXTINF:-1,TAQUILLA_37 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/122.ts
+#EXTINF:-1,TAQUILLA_38 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/123.ts
+#EXTINF:-1,TAQUILLA_39 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/124.ts
+#EXTINF:-1,TAQUILLA_40 (p6) (Game Snake Land S. y L.)
+http://163.172.52.83:8000/live/testapp/testapp/125.ts
+
