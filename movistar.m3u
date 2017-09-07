@@ -1,103 +1,1044 @@
-#EXTM3U
-#EXTINF:-1,Movistar Series
-http://212.230.157.214:9981/stream/channelid/1406365396
-#EXTINF:-1,Movistar Series HD
-http://212.230.157.214:9981/stream/channelid/482333575
-#EXTINF:-1,Movistar Series Xtra HD
-http://212.230.157.214:9981/stream/channelid/390782970
-#EXTINF:-1,Movistar Series Xtra HD
-http://212.230.157.214:9981/stream/channelid/944293109
-#EXTINF:-1,SYFY
-http://212.230.157.214:9981/stream/channelid/934001227
-#EXTINF:-1,SYFY HD
-http://212.230.157.214:9981/stream/channelid/621145210
+﻿#EXTM3U
+#EXTINF:-1,LA RED HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/1074.ts
+#EXTINF:-1,MEGA HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/596.ts
+#EXTINF:-1,CHV HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/447.ts
+#EXTINF:-1,CANAL13 HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/446.ts
+#EXTINF:-1,TVN HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/15.ts
+#EXTINF:-1,TVN
+http://zial.dyndns.tv:8000/live/andrea/andrea/449.ts
+#EXTINF:-1,MEGA
+http://zial.dyndns.tv:8000/live/andrea/andrea/384.ts
+#EXTINF:-1,CHV
+http://zial.dyndns.tv:8000/live/andrea/andrea/425.ts
+#EXTINF:-1,TELETRAK
+http://zial.dyndns.tv:8000/live/andrea/andrea/430.ts
+#EXTINF:-1,CNN ESPAÑOL
+http://zial.dyndns.tv:8000/live/andrea/andrea/825.ts
+#EXTINF:-1,CNN CHILE
+http://zial.dyndns.tv:8000/live/andrea/andrea/400.ts
+#EXTINF:-1,24 horas chile
+http://zial.dyndns.tv:8000/live/andrea/andrea/2244.ts
+#EXTINF:-1,UCV HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/1252.ts
+#EXTINF:-1,13 CABLE
+http://zial.dyndns.tv:8000/live/andrea/andrea/429.ts
+#EXTINF:-1,TELE13 MOVIL
+http://zial.dyndns.tv:8000/live/andrea/andrea/1570.ts
+#EXTINF:-1,ZONA LATINA
+http://zial.dyndns.tv:8000/live/andrea/andrea/426.ts
+#EXTINF:-1,LA RED
+http://zial.dyndns.tv:8000/live/andrea/andrea/412.ts
+#EXTINF:-1,CANAL13
+http://zial.dyndns.tv:8000/live/andrea/andrea/761.ts
+#EXTINF:-1,GOOL PERU
+http://zial.dyndns.tv:8000/live/andrea/andrea/1469.ts
+#EXTINF:-1,CMD
+http://zial.dyndns.tv:8000/live/andrea/andrea/770.ts
+#EXTINF:-1,AMERICA TELEVISION
+http://zial.dyndns.tv:8000/live/andrea/andrea/771.ts
+#EXTINF:-1,FRECUENCIA LATINA
+http://zial.dyndns.tv:8000/live/andrea/andrea/762.ts
+#EXTINF:-1,PANAMERICANA.
+http://zial.dyndns.tv:8000/live/andrea/andrea/1694.ts
+#EXTINF:-1,RED TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1614.ts
+#EXTINF:-1,PLUS TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1615.ts
+#EXTINF:-1,CANAL N
+http://zial.dyndns.tv:8000/live/andrea/andrea/1645.ts
+#EXTINF:-1,ATV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1605.ts
+#EXTINF:-1,RCN
+http://zial.dyndns.tv:8000/live/andrea/andrea/1534.ts
+#EXTINF:-1,CARACOL
+http://zial.dyndns.tv:8000/live/andrea/andrea/1642.ts
+#EXTINF:-1,CARACOL INTERNACIONAL
+http://zial.dyndns.tv:8000/live/andrea/andrea/254.ts
+#EXTINF:-1,WINSPORT
+http://zial.dyndns.tv:8000/live/andrea/andrea/351.ts
+#EXTINF:-1,BABY TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1457.ts
+#EXTINF:-1,NICK JR
+http://zial.dyndns.tv:8000/live/andrea/andrea/1660.ts
+#EXTINF:-1,DISNEY XD
+http://zial.dyndns.tv:8000/live/andrea/andrea/818.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://zial.dyndns.tv:8000/live/andrea/andrea/819.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://zial.dyndns.tv:8000/live/andrea/andrea/820.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://zial.dyndns.tv:8000/live/andrea/andrea/822.ts
+#EXTINF:-1,BOOMERANG
+http://zial.dyndns.tv:8000/live/andrea/andrea/827.ts
+#EXTINF:-1,ETC
+http://zial.dyndns.tv:8000/live/andrea/andrea/261.ts
+#EXTINF:-1,NICK
+http://zial.dyndns.tv:8000/live/andrea/andrea/815.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://zial.dyndns.tv:8000/live/andrea/andrea/824.ts
+#EXTINF:-1,CARTOON NETWOORK
+http://zial.dyndns.tv:8000/live/andrea/andrea/826.ts
+#EXTINF:-1,ANIME TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/795.ts
+#EXTINF:-1,UFC
+http://zial.dyndns.tv:8000/live/andrea/andrea/1382.ts
+#EXTINF:-1,CDF HD
+http://zial.dyndns.tv:8000/live/andrea/andrea/1707.ts
+#EXTINF:-1,CDF PREMIUN
+http://zial.dyndns.tv:8000/live/andrea/andrea/274.ts
+#EXTINF:-1,CDF BASICO
+http://zial.dyndns.tv:8000/live/andrea/andrea/422.ts
+#EXTINF:-1,GOL TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1582.ts
+#EXTINF:-1,ESPN
+http://zial.dyndns.tv:8000/live/andrea/andrea/276.ts
+#EXTINF:-1,ESPN 2
+http://zial.dyndns.tv:8000/live/andrea/andrea/272.ts
+#EXTINF:-1,ESPN 3
+http://zial.dyndns.tv:8000/live/andrea/andrea/1692.ts
+#EXTINF:-1,FOX SPORTS CHILE
+http://zial.dyndns.tv:8000/live/andrea/andrea/693.ts
+#EXTINF:-1,FOX SPORTS 2
+http://zial.dyndns.tv:8000/live/andrea/andrea/694.ts
+#EXTINF:-1,FOX SPORT MEXICO
+http://zial.dyndns.tv:8000/live/andrea/andrea/603.ts
+#EXTINF:-1,FOX SPORT 3
+http://zial.dyndns.tv:8000/live/andrea/andrea/601.ts
+#EXTINF:-1,FOX SPORT 2
+http://zial.dyndns.tv:8000/live/andrea/andrea/602.ts
+#EXTINF:-1,TYC SPORTS
+http://zial.dyndns.tv:8000/live/andrea/andrea/1612.ts
+#EXTINF:-1,SUPER SPORT
+http://zial.dyndns.tv:8000/live/andrea/andrea/1031.ts
+#EXTINF:-1,SUPER TV
+http://zial.dyndns.tv:8000/live/andrea/andrea/1697.ts
+#EXTINF:-1,MOVISTAR MOTOGP
+http://zial.dyndns.tv:8000/live/andrea/andrea/1484.ts
+#EXTINF:-1,REAL MADRID
+http://zial.dyndns.tv:8000/live/andrea/andrea/294.ts
+#EXTINF:-1,DEPORTV
+http://zial.dyndns.tv:8000/live/andrea/andrea/775.ts
+#EXTINF:-1,EUROSPORT
+http://zial.dyndns.tv:8000/live/andrea/andrea/772.ts
+#EXTINF:-1,NFL
+http://zial.dyndns.tv:8000/live/andrea/andrea/1386.ts
+#EXTINF:-1,HBO
+http://zial.dyndns.tv:8000/live/andrea/andrea/1594.ts
+#EXTINF:-1,HBO PLUS ESTE
+http://zial.dyndns.tv:8000/live/andrea/andrea/593.ts
+#EXTINF:-1,HBO OESTE
+http://zial.dyndns.tv:8000/live/andrea/andrea/1653.ts
+#EXTINF:-1,HBO PLUS OESTE
+http://zial.dyndns.tv:8000/live/andrea/andrea/597.ts
+#EXTINF:-1,HBO FAMILY
+http://zial.dyndns.tv:8000/live/andrea/andrea/598.ts
+#EXTINF:-1,HBO 2
+http://zial.dyndns.tv:8000/live/andrea/andrea/599.ts
+#EXTINF:-1,HBO PLUS
+http://zial.dyndns.tv:8000/live/andrea/andrea/594.ts
+#EXTINF:-1,HBO SIGNATURE
+http://zial.dyndns.tv:8000/live/andrea/andrea/592.ts
+#EXTINF:-1,FOX CLASSICS
+http://zial.dyndns.tv:8000/live/andrea/andrea/608.ts
+#EXTINF:-1,FOX MOVIES
+http://zial.dyndns.tv:8000/live/andrea/andrea/604.ts
+#EXTINF:-1,FOX FAMILY
+http://zial.dyndns.tv:8000/live/andrea/andrea/606.ts
+#EXTINF:-1,FOX CINEMA
+http://zial.dyndns.tv:8000/live/andrea/andrea/609.ts
+#EXTINF:-1,FOX ACTION
+http://zial.dyndns.tv:8000/live/andrea/andrea/610.ts
+#EXTINF:-1,FOX 1 ESTE
+http://zial.dyndns.tv:8000/live/andrea/andrea/613.ts
+#EXTINF:-1,FOX LIFE2
+http://zial.dyndns.tv:8000/live/andrea/andrea/605.ts
+#EXTINF:-1,FOX COMEDY
+http://zial.dyndns.tv:8000/live/andrea/andrea/607.ts
+#EXTINF:-1,CANAL FOX
+http://zial.dyndns.tv:8000/live/andrea/andrea/612.ts
+#EXTINF:-1,FOX CHANNEL
+http://zial.dyndns.tv:8000/live/andrea/andrea/262.ts
+#EXTINF:-1,CINEMAX
+http://zial.dyndns.tv:8000/live/andrea/andrea/1384.ts
+#EXTINF:-1,CINECANAL
+http://zial.dyndns.tv:8000/live/andrea/andrea/1385.ts
+#EXTINF:-1,MAX PRIME OESTE.
+http://zial.dyndns.tv:8000/live/andrea/andrea/1035.ts
+#EXTINF:-1,MAX PRIME
+http://zial.dyndns.tv:8000/live/andrea/andrea/1693.ts
+#EXTINF:-1,MAX.
+http://zial.dyndns.tv:8000/live/andrea/andrea/1033.ts
+#EXTINF:-1,MAX UP
+http://zial.dyndns.tv:8000/live/andrea/andrea/1034.ts
+#EXTINF:-1,CINELATINO
+http://zial.dyndns.tv:8000/live/andrea/andrea/1662.ts
+#EXTINF:-1,FILMZONE
+http://zial.dyndns.tv:8000/live/andrea/andrea/256.ts
 #EXTINF:-1,TNT
-http://212.230.157.214:9981/stream/channelid/568989017
-#EXTINF:-1,TNT HD
-http://212.230.157.214:9981/stream/channelid/1912764164
-#EXTINF:-1,#0
-http://212.230.157.214:9981/stream/channelid/2067665151
+http://zial.dyndns.tv:8000/live/andrea/andrea/1705.ts
+#EXTINF:-1,TNT SERIES
+http://zial.dyndns.tv:8000/live/andrea/andrea/813.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://zial.dyndns.tv:8000/live/andrea/andrea/267.ts
+#EXTINF:-1,SPACE
+http://zial.dyndns.tv:8000/live/andrea/andrea/265.ts
+#EXTINF:-1,SONY
+http://zial.dyndns.tv:8000/live/andrea/andrea/269.ts
+#EXTINF:-1,ANIMAL PLANET
+http://zial.dyndns.tv:8000/live/andrea/andrea/253.ts
+#EXTINF:-1,TRAVEL & LIVING
+http://zial.dyndns.tv:8000/live/andrea/andrea/812.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://zial.dyndns.tv:8000/live/andrea/andrea/1387.ts
+#EXTINF:-1,TLC
+http://zial.dyndns.tv:8000/live/andrea/andrea/814.ts
+#EXTINF:-1,INVESTIGACION DISCOVERY
+http://zial.dyndns.tv:8000/live/andrea/andrea/817.ts
+#EXTINF:-1,H2
+http://zial.dyndns.tv:8000/live/andrea/andrea/2257.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://zial.dyndns.tv:8000/live/andrea/andrea/2246.ts
+#EXTINF:-1,ES: Canal  Futbol
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/72.ts
+#EXTINF:-1,ES: Canal  Liga
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/70.ts
+#EXTINF:-1,ES: Canal  Liga 2
+http://163.172.217.107:1944/live/7/zf8TH5W6jb/71.ts
 #EXTINF:-1,#0 HD
-http://212.230.157.214:9981/stream/channelid/1835619204
-#EXTINF:-1,AMC
-http://212.230.157.214:9981/stream/channelid/184936581
-#EXTINF:-1,AMC HD
-http://212.230.157.214:9981/stream/channelid/283849279
-#EXTINF:-1,AandE
-http://212.230.157.214:9981/stream/channelid/1450071214
-#EXTINF:-1,Calle 13
-http://212.230.157.214:9981/stream/channelid/2065729192
-#EXTINF:-1,Calle 13 HD
-http://212.230.157.214:9981/stream/channelid/1394271893
-#EXTINF:-1,Crimen and Investigacion
-http://212.230.157.214:9981/stream/channelid/572146927
-#EXTINF:-1,Hollywood
-http://212.230.157.214:9981/stream/channelid/1616784467
-#EXTINF:-1,Hollywood HD
-http://212.230.157.214:9981/stream/channelid/752493755
-#EXTINF:-1,Movistar Accion
-http://212.230.157.214:9981/stream/channelid/697138697
-#EXTINF:-1,Movistar Accion HD
-http://212.230.157.214:9981/stream/channelid/1543239355
-#EXTINF:-1,Movistar Cine Espanol
-http://212.230.157.214:9981/stream/channelid/830895892
-#EXTINF:-1,Movistar Comedia
-http://212.230.157.214:9981/stream/channelid/1420225235
-#EXTINF:-1,Movistar Comedia HD
-http://212.230.157.214:9981/stream/channelid/1882043392
-#EXTINF:-1,Movistar DCine
-http://212.230.157.214:9981/stream/channelid/735088693
-#EXTINF:-1,Movistar DCine HD
-http://212.230.157.214:9981/stream/channelid/599923043
-#EXTINF:-1,Movistar Estrenos
-http://212.230.157.214:9981/stream/channelid/1504608411
-#EXTINF:-1,Movistar Estrenos HD
-http://212.230.157.214:9981/stream/channelid/726645225
-#EXTINF:-1,Movistar Xtra
-http://212.230.157.214:9981/stream/channelid/2141706952
-#EXTINF:-1,Movistar Xtra HD
-http://212.230.157.214:9981/stream/channelid/1399749978
-#EXTINF:-1,Paramount Channel
-http://212.230.157.214:9981/stream/channelid/1245113644
-#EXTINF:-1,TCM
-http://212.230.157.214:9981/stream/channelid/878966001
+http://163.172.52.83:8000/live/testapp/testapp/198.ts
+#EXTINF:-1,LA 1 HD
+http://163.172.52.83:8000/live/testapp/testapp/210.ts
+#EXTINF:-1,LA 2
+http://163.172.52.83:8000/live/testapp/testapp/359.ts
+#EXTINF:-1,ANTENA 3 HD
+http://163.172.52.83:8000/live/testapp/testapp/216.ts
+#EXTINF:-1,CUATRO HD
+http://163.172.52.83:8000/live/testapp/testapp/212.ts
+#EXTINF:-1,TELECINCO HD
+http://163.172.52.83:8000/live/testapp/testapp/200.ts
+#EXTINF:-1,LA SEXTA HD
+http://163.172.52.83:8000/live/testapp/testapp/218.ts
+#EXTINF:-1,FOX LIFE HD
+http://163.172.52.83:8000/live/testapp/testapp/191.ts
+#EXTINF:-1,FOX HD
+http://163.172.52.83:8000/live/testapp/testapp/219.ts
+#EXTINF:-1,AXN WHITE HD
+http://163.172.52.83:8000/live/testapp/testapp/214.ts
+#EXTINF:-1,AXN HD
+http://163.172.52.83:8000/live/testapp/testapp/215.ts
+#EXTINF:-1,HOLLYWOODHD
+http://163.172.52.83:8000/live/testapp/testapp/211.ts
+#EXTINF:-1,M.ESTRENOSHD
+http://163.172.52.83:8000/live/testapp/testapp/203.ts
+#EXTINF:-1,M.COMEDIA HD
+http://163.172.52.83:8000/live/testapp/testapp/204.ts
+#EXTINF:-1,M. XTRA HD
+http://163.172.52.83:8000/live/testapp/testapp/205.ts
+#EXTINF:-1,M. SeriesXtraHD
+http://163.172.52.83:8000/live/testapp/testapp/187.ts
+#EXTINF:-1,M. SERIES HD
+http://163.172.52.83:8000/live/testapp/testapp/188.ts
+#EXTINF:-1,M. DCINE HD
+http://163.172.52.83:8000/live/testapp/testapp/208.ts
+#EXTINF:-1,M. ACCI©N HD
+http://163.172.52.83:8000/live/testapp/testapp/209.ts
+#EXTINF:-1,SYFY HD
+http://163.172.52.83:8000/live/testapp/testapp/201.ts
+#EXTINF:-1,TNT HD
+http://163.172.52.83:8000/live/testapp/testapp/182.ts
 #EXTINF:-1,TCM HD
-http://212.230.157.214:9981/stream/channelid/850370827
-#EXTINF:-1,Canal Cocina
-http://212.230.157.214:9981/stream/channelid/47123581
-#EXTINF:-1,Classica
-http://212.230.157.214:9981/stream/channelid/2056060242
-#EXTINF:-1,Discovery
-http://212.230.157.214:9981/stream/channelid/284823498
-#EXTINF:-1,Fox News
-http://212.230.157.214:9981/stream/channelid/80102782
-#EXTINF:-1,Historia
-http://212.230.157.214:9981/stream/channelid/1976018948
-#EXTINF:-1,Iberalia TV
-http://212.230.157.214:9981/stream/channelid/1887963133
-#EXTINF:-1,MTV ESPANA
-http://212.230.157.214:9981/stream/channelid/1448245449
-#EXTINF:-1,Nat Geo Wild
-http://212.230.157.214:9981/stream/channelid/1626484393
-#EXTINF:-1,Nat Geo Wild HD
-http://212.230.157.214:9981/stream/channelid/2104221548
-#EXTINF:-1,National Geographic
-http://212.230.157.214:9981/stream/channelid/470083526
-#EXTINF:-1,National Geographic HD
-http://212.230.157.214:9981/stream/channelid/1659648353
-#EXTINF:-1,Non Stop People
-http://212.230.157.214:9981/stream/channelid/2114887206
-#EXTINF:-1,Orbe 21
-http://212.230.157.214:9981/stream/channelid/1069960854
-#EXTINF:-1,Playboy TV
-http://212.230.157.214:9981/stream/channelid/1536269344
-#EXTINF:-1,Viajar
-http://212.230.157.214:9981/stream/channelid/649765447
-#EXTINF:-1,Viajar HD
-http://212.230.157.214:9981/stream/channelid/176412642
-#EXTINF:-1,Odisea
-http://212.230.157.214:9981/stream/channelid/909271758
-#EXTINF:-1,Canal Decasa
-http://212.230.157.214:9981/stream/channelid/745514258
-#EXTINF:-1,Bond
-http://212.230.157.214:9981/stream/channelid/1675224771
+http://163.172.52.83:8000/live/testapp/testapp/183.ts
+#EXTINF:-1,AMC HD
+http://163.172.52.83:8000/live/testapp/testapp/217.ts
+#EXTINF:-1,FDF
+http://163.172.52.83:8000/live/testapp/testapp/381.ts
+#EXTINF:-1,CLAN TVE
+http://163.172.52.83:8000/live/testapp/testapp/382.ts
+#EXTINF:-1,NICKELODEONHD
+http://163.172.52.83:8000/live/testapp/testapp/184.ts
+#EXTINF:-1,COSMO HD
+http://163.172.52.83:8000/live/testapp/testapp/194.ts
+#EXTINF:-1,COMEDYCENTRALHD
+http://163.172.52.83:8000/live/testapp/testapp/195.ts
+#EXTINF:-1,CALLE 13 HD
+http://163.172.52.83:8000/live/testapp/testapp/196.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://163.172.52.83:8000/live/testapp/testapp/380.ts
+#EXTINF:-1,BEIN SPORT HD
+http://163.172.52.83:8000/live/testapp/testapp/197.ts
+#EXTINF:-1,BEIN LALIGA HD
+http://163.172.52.83:8000/live/testapp/testapp/213.ts
+#EXTINF:-1,LALIGA TV BAR HD
+http://163.172.52.83:8000/live/testapp/testapp/360.ts
+#EXTINF:-1,MOVISTAR  PARTIDAZO LIVE SESSION
+http://163.172.52.83:8000/live/testapp/testapp/337.ts
+#EXTINF:-1,M.MOTOGPHD
+http://163.172.52.83:8000/live/testapp/testapp/220.ts
+#EXTINF:-1,M.FORMULA1HD
+http://163.172.52.83:8000/live/testapp/testapp/202.ts
+#EXTINF:-1,M. GOLF HD
+http://163.172.52.83:8000/live/testapp/testapp/189.ts
+#EXTINF:-1,M. F.TBOL HD
+http://163.172.52.83:8000/live/testapp/testapp/206.ts
+#EXTINF:-1,M. DEP 2 HD
+http://163.172.52.83:8000/live/testapp/testapp/207.ts
+#EXTINF:-1,M. DEP 1 HD
+http://163.172.52.83:8000/live/testapp/testapp/190.ts
+#EXTINF:-1,GOL TV
+http://163.172.52.83:8000/live/testapp/testapp/357.ts
+#EXTINF:-1,R. MADRID TV
+http://163.172.52.83:8000/live/testapp/testapp/242.ts
+#EXTINF:-1,BARCA TV
+http://163.172.52.83:8000/live/testapp/testapp/259.ts
+#EXTINF:-1,EUROSPORT1HD
+http://163.172.52.83:8000/live/testapp/testapp/192.ts
+#EXTINF:-1,EUROSPORT 2
+http://163.172.52.83:8000/live/testapp/testapp/355.ts
+#EXTINF:-1,TOROS TV HD
+http://163.172.52.83:8000/live/testapp/testapp/379.ts
+#EXTINF:-1,BEINLALIGA1
+http://163.172.52.83:8000/live/testapp/testapp/384.ts
+#EXTINF:-1,BEINLALIGA2
+http://163.172.52.83:8000/live/testapp/testapp/383.ts
+#EXTINF:-1,BEIN MAX 1
+http://163.172.52.83:8000/live/testapp/testapp/386.ts
+#EXTINF:-1,BEIN MAX 2
+http://163.172.52.83:8000/live/testapp/testapp/385.ts
+#EXTINF:-1,NG WILD HD
+http://163.172.52.83:8000/live/testapp/testapp/185.ts
+#EXTINF:-1,VIAJAR HD
+http://163.172.52.83:8000/live/testapp/testapp/199.ts
+#EXTINF:-1,NAT GEO HD
+http://163.172.52.83:8000/live/testapp/testapp/186.ts
+#EXTINF:-1,CAZA Y PESCA HD
+http://163.172.52.83:8000/live/testapp/testapp/348.ts
+#EXTINF:-1,BABY TV
+http://163.172.52.83:8000/live/testapp/testapp/260.ts
+#EXTINF:-1,DISNEY CH HD
+http://163.172.52.83:8000/live/testapp/testapp/193.ts
+#EXTINF:-1,24 HORAS
+http://163.172.52.83:8000/live/testapp/testapp/263.ts
+#EXTINF:-1,NEOX
+http://163.172.52.83:8000/live/testapp/testapp/243.ts
+#EXTINF:-1,M. Cine Espaæol
+http://163.172.52.83:8000/live/testapp/testapp/245.ts
+#EXTINF:-1,LTC
+http://163.172.52.83:8000/live/testapp/testapp/246.ts
+#EXTINF:-1,PARAMOUNT
+http://163.172.52.83:8000/live/testapp/testapp/375.ts
+#EXTINF:-1,CANAL ODISEA
+http://163.172.52.83:8000/live/testapp/testapp/345.ts
+#EXTINF:-1,CANAL DECASA
+http://163.172.52.83:8000/live/testapp/testapp/343.ts
+#EXTINF:-1,NONSTOPEOPLE
+http://163.172.52.83:8000/live/testapp/testapp/373.ts
+#EXTINF:-1,MTV ESPA¹A
+http://163.172.52.83:8000/live/testapp/testapp/244.ts
+#EXTINF:-1,HISTORIA
+http://163.172.52.83:8000/live/testapp/testapp/247.ts
+#EXTINF:-1,DIVINITY
+http://163.172.52.83:8000/live/testapp/testapp/250.ts
+#EXTINF:-1,DISNEY XD
+http://163.172.52.83:8000/live/testapp/testapp/251.ts
+#EXTINF:-1,DISCOVERY
+http://163.172.52.83:8000/live/testapp/testapp/252.ts
+#EXTINF:-1,CRIMEN INVES
+http://163.172.52.83:8000/live/testapp/testapp/253.ts
+#EXTINF:-1,CLASSICA
+http://163.172.52.83:8000/live/testapp/testapp/254.ts
+#EXTINF:-1,CANAL SUR A.
+http://163.172.52.83:8000/live/testapp/testapp/256.ts
+#EXTINF:-1,CANAL PANDA
+http://163.172.52.83:8000/live/testapp/testapp/257.ts
+#EXTINF:-1,BOING
+http://163.172.52.83:8000/live/testapp/testapp/258.ts
+#EXTINF:-1,ARAGON TV
+http://163.172.52.83:8000/live/testapp/testapp/261.ts
+#EXTINF:-1,A&E
+http://163.172.52.83:8000/live/testapp/testapp/262.ts
+#EXTINF:-1,C&I
+http://163.172.52.83:8000/live/testapp/testapp/341.ts
+#EXTINF:-1,ENERGY
+http://163.172.52.83:8000/live/testapp/testapp/352.ts
+#EXTINF:-1,SUNDANCE
+http://163.172.52.83:8000/live/testapp/testapp/393.ts
+#EXTINF:-1,NIck JR
+http://163.172.52.83:8000/live/testapp/testapp/392.ts
+#EXTINF:-1,M. deport
+http://163.172.52.83:8000/live/testapp/testapp/391.ts
+#EXTINF:-1,FOX NEWS
+http://163.172.52.83:8000/live/testapp/testapp/389.ts
+#EXTINF:-1,DISNEY PIXAR
+http://163.172.52.83:8000/live/testapp/testapp/390.ts
+#EXTINF:-1,CANAL ORBE21
+http://163.172.52.83:8000/live/testapp/testapp/388.ts
+#EXTINF:-1,CANAL COCINA
+http://163.172.52.83:8000/live/testapp/testapp/387.ts
+#EXTINF:-1,TAQUILLA_1
+http://163.172.52.83:8000/live/testapp/testapp/86.ts
+#EXTINF:-1,TAQUILLA_2
+http://163.172.52.83:8000/live/testapp/testapp/87.ts
+#EXTINF:-1,TAQUILLA_3
+http://163.172.52.83:8000/live/testapp/testapp/88.ts
+#EXTINF:-1,TAQUILLA_4
+http://163.172.52.83:8000/live/testapp/testapp/89.ts
+#EXTINF:-1,TAQUILLA_5
+http://163.172.52.83:8000/live/testapp/testapp/90.ts
+#EXTINF:-1,TAQUILLA_6
+http://163.172.52.83:8000/live/testapp/testapp/91.ts
+#EXTINF:-1,TAQUILLA_7
+http://163.172.52.83:8000/live/testapp/testapp/92.ts
+#EXTINF:-1,TAQUILLA_8
+http://163.172.52.83:8000/live/testapp/testapp/93.ts
+#EXTINF:-1,TAQUILLA_9
+http://163.172.52.83:8000/live/testapp/testapp/94.ts
+#EXTINF:-1,TAQUILLA_10
+http://163.172.52.83:8000/live/testapp/testapp/95.ts
+#EXTINF:-1,TAQUILLA_11
+http://163.172.52.83:8000/live/testapp/testapp/96.ts
+#EXTINF:-1,TAQUILLA_12
+http://163.172.52.83:8000/live/testapp/testapp/97.ts
+#EXTINF:-1,TAQUILLA_13
+http://163.172.52.83:8000/live/testapp/testapp/98.ts
+#EXTINF:-1,TAQUILLA_14
+http://163.172.52.83:8000/live/testapp/testapp/99.ts
+#EXTINF:-1,TAQUILLA_15
+http://163.172.52.83:8000/live/testapp/testapp/100.ts
+#EXTINF:-1,TAQUILLA_16
+http://163.172.52.83:8000/live/testapp/testapp/101.ts
+#EXTINF:-1,TAQUILLA_17
+http://163.172.52.83:8000/live/testapp/testapp/102.ts
+#EXTINF:-1,TAQUILLA_18
+http://163.172.52.83:8000/live/testapp/testapp/103.ts
+#EXTINF:-1,TAQUILLA_19
+http://163.172.52.83:8000/live/testapp/testapp/104.ts
+#EXTINF:-1,TAQUILLA_20
+http://163.172.52.83:8000/live/testapp/testapp/105.ts
+#EXTINF:-1,TAQUILLA_21
+http://163.172.52.83:8000/live/testapp/testapp/106.ts
+#EXTINF:-1,TAQUILLA_22
+http://163.172.52.83:8000/live/testapp/testapp/107.ts
+#EXTINF:-1,TAQUILLA_23
+http://163.172.52.83:8000/live/testapp/testapp/108.ts
+#EXTINF:-1,TAQUILLA_24
+http://163.172.52.83:8000/live/testapp/testapp/109.ts
+#EXTINF:-1,TAQUILLA_25
+http://163.172.52.83:8000/live/testapp/testapp/110.ts
+#EXTINF:-1,TAQUILLA_26
+http://163.172.52.83:8000/live/testapp/testapp/111.ts
+#EXTINF:-1,TAQUILLA_27
+http://163.172.52.83:8000/live/testapp/testapp/112.ts
+#EXTINF:-1,TAQUILLA_28
+http://163.172.52.83:8000/live/testapp/testapp/113.ts
+#EXTINF:-1,TAQUILLA_29
+http://163.172.52.83:8000/live/testapp/testapp/114.ts
+#EXTINF:-1,TAQUILLA_30
+http://163.172.52.83:8000/live/testapp/testapp/115.ts
+#EXTINF:-1,TAQUILLA_31
+http://163.172.52.83:8000/live/testapp/testapp/116.ts
+#EXTINF:-1,TAQUILLA_32
+http://163.172.52.83:8000/live/testapp/testapp/117.ts
+#EXTINF:-1,TAQUILLA_33
+http://163.172.52.83:8000/live/testapp/testapp/118.ts
+#EXTINF:-1,TAQUILLA_34
+http://163.172.52.83:8000/live/testapp/testapp/119.ts
+#EXTINF:-1,TAQUILLA_35
+http://163.172.52.83:8000/live/testapp/testapp/120.ts
+#EXTINF:-1,TAQUILLA_36
+http://163.172.52.83:8000/live/testapp/testapp/121.ts
+#EXTINF:-1,TAQUILLA_37
+http://163.172.52.83:8000/live/testapp/testapp/122.ts
+#EXTINF:-1,TAQUILLA_38
+http://163.172.52.83:8000/live/testapp/testapp/123.ts
+#EXTINF:-1,TAQUILLA_39
+http://163.172.52.83:8000/live/testapp/testapp/124.ts
+#EXTINF:-1,TAQUILLA_40
+http://163.172.52.83:8000/live/testapp/testapp/125.ts
+#EXTINF:-1,ES: #0 HD
+http://ckingiptv.tk:8000/live/burns/burns/26806.ts
+#EXTINF:-1,ES: 24 HOURS
+http://ckingiptv.tk:8000/live/burns/burns/26805.ts
+#EXTINF:-1,ES: 40#
+http://ckingiptv.tk:8000/live/burns/burns/26804.ts
+#EXTINF:-1,ES: A&E
+http://ckingiptv.tk:8000/live/burns/burns/26803.ts
+#EXTINF:-1,ES: ANDALUCIA TV
+http://ckingiptv.tk:8000/live/burns/burns/26802.ts
+#EXTINF:-1,ES: ANTENA 3HD
+http://ckingiptv.tk:8000/live/burns/burns/26801.ts
+#EXTINF:-1,ES: ANTENNA 3HD
+http://ckingiptv.tk:8000/live/burns/burns/26800.ts
+#EXTINF:-1,ES: AXN HD
+http://ckingiptv.tk:8000/live/burns/burns/26799.ts
+#EXTINF:-1,ES: AXN WHITE HD
+http://ckingiptv.tk:8000/live/burns/burns/26798.ts
+#EXTINF:-1,ES: BABY TV
+http://ckingiptv.tk:8000/live/burns/burns/26797.ts
+#EXTINF:-1,ES: BARCA TV
+http://ckingiptv.tk:8000/live/burns/burns/26796.ts
+#EXTINF:-1,ES: Bein Liga HD
+http://ckingiptv.tk:8000/live/burns/burns/26795.ts
+#EXTINF:-1,ES: Bein Sport HD
+http://ckingiptv.tk:8000/live/burns/burns/26794.ts
+#EXTINF:-1,ES: BOING HD
+http://ckingiptv.tk:8000/live/burns/burns/26793.ts
+#EXTINF:-1,ES: C  LIGA
+http://ckingiptv.tk:8000/live/burns/burns/26792.ts
+#EXTINF:-1,ES: C & I
+http://ckingiptv.tk:8000/live/burns/burns/26791.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://ckingiptv.tk:8000/live/burns/burns/26790.ts
+#EXTINF:-1,ES: CALLE 13HD
+http://ckingiptv.tk:8000/live/burns/burns/26789.ts
+#EXTINF:-1,ES: Canal 3/24
+http://ckingiptv.tk:8000/live/burns/burns/26788.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://ckingiptv.tk:8000/live/burns/burns/26787.ts
+#EXTINF:-1,ES: CLAN TVE HD
+http://ckingiptv.tk:8000/live/burns/burns/26786.ts
+#EXTINF:-1,ES: COMEDY CENTRAL
+http://ckingiptv.tk:8000/live/burns/burns/26785.ts
+#EXTINF:-1,ES: COSMO HD
+http://ckingiptv.tk:8000/live/burns/burns/26784.ts
+#EXTINF:-1,ES: CUATRO
+http://ckingiptv.tk:8000/live/burns/burns/26783.ts
+#EXTINF:-1,ES: DEPORTE 1HD
+http://ckingiptv.tk:8000/live/burns/burns/26782.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL
+http://ckingiptv.tk:8000/live/burns/burns/26781.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://ckingiptv.tk:8000/live/burns/burns/26780.ts
+#EXTINF:-1,ES: DISNEP CHANNEL HD
+http://ckingiptv.tk:8000/live/burns/burns/26779.ts
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://ckingiptv.tk:8000/live/burns/burns/26778.ts
+#EXTINF:-1,ES: DISNEY JUNIOR
+http://ckingiptv.tk:8000/live/burns/burns/26777.ts
+#EXTINF:-1,ES: DISNEY XD
+http://ckingiptv.tk:8000/live/burns/burns/26776.ts
+#EXTINF:-1,ES: DIVINITY
+http://ckingiptv.tk:8000/live/burns/burns/26775.ts
+#EXTINF:-1,ES: ENERGY
+http://ckingiptv.tk:8000/live/burns/burns/26774.ts
+#EXTINF:-1,ES: Esperanza TV
+http://ckingiptv.tk:8000/live/burns/burns/26773.ts
+#EXTINF:-1,ES: EURONEWS
+http://ckingiptv.tk:8000/live/burns/burns/26772.ts
+#EXTINF:-1,ES: FDF HD
+http://ckingiptv.tk:8000/live/burns/burns/26771.ts
+#EXTINF:-1,ES: FOX HD
+http://ckingiptv.tk:8000/live/burns/burns/26770.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://ckingiptv.tk:8000/live/burns/burns/26769.ts
+#EXTINF:-1,ES: Galicia TV
+http://ckingiptv.tk:8000/live/burns/burns/26768.ts
+#EXTINF:-1,ES: GOL Tv
+http://ckingiptv.tk:8000/live/burns/burns/26767.ts
+#EXTINF:-1,ES: HISTORIA
+http://ckingiptv.tk:8000/live/burns/burns/26766.ts
+#EXTINF:-1,ES: HISTORY
+http://ckingiptv.tk:8000/live/burns/burns/26765.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://ckingiptv.tk:8000/live/burns/burns/26764.ts
+#EXTINF:-1,ES: IBERALIA
+http://ckingiptv.tk:8000/live/burns/burns/26763.ts
+#EXTINF:-1,ES: Iberalia TV
+http://ckingiptv.tk:8000/live/burns/burns/26762.ts
+#EXTINF:-1,ES: LA 1HD
+http://ckingiptv.tk:8000/live/burns/burns/26761.ts
+#EXTINF:-1,ES: LA 2HD
+http://ckingiptv.tk:8000/live/burns/burns/26760.ts
+#EXTINF:-1,ES: La Liga BAR HD
+http://ckingiptv.tk:8000/live/burns/burns/26759.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://ckingiptv.tk:8000/live/burns/burns/26758.ts
+#EXTINF:-1,ES: Lancelot tv
+http://ckingiptv.tk:8000/live/burns/burns/26757.ts
+#EXTINF:-1,ES: Levante TV
+http://ckingiptv.tk:8000/live/burns/burns/26756.ts
+#EXTINF:-1,ES: LTC
+http://ckingiptv.tk:8000/live/burns/burns/26755.ts
+#EXTINF:-1,ES: MARBELLA TV
+http://ckingiptv.tk:8000/live/burns/burns/26754.ts
+#EXTINF:-1,ES: MEGA
+http://ckingiptv.tk:8000/live/burns/burns/26753.ts
+#EXTINF:-1,ES: MOVISTAR  DCINE HD
+http://ckingiptv.tk:8000/live/burns/burns/26752.ts
+#EXTINF:-1,ES: MOVISTAR ACCION
+http://ckingiptv.tk:8000/live/burns/burns/26751.ts
+#EXTINF:-1,ES: MOVISTAR ACTION HD
+http://ckingiptv.tk:8000/live/burns/burns/26750.ts
+#EXTINF:-1,ES: MOVISTAR CINE N
+http://ckingiptv.tk:8000/live/burns/burns/26749.ts
+#EXTINF:-1,ES: MOVISTAR COCINA
+http://ckingiptv.tk:8000/live/burns/burns/26748.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://ckingiptv.tk:8000/live/burns/burns/26747.ts
+#EXTINF:-1,ES: MOVISTAR DECASA
+http://ckingiptv.tk:8000/live/burns/burns/26746.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTE 2HD
+http://ckingiptv.tk:8000/live/burns/burns/26745.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2HD
+http://ckingiptv.tk:8000/live/burns/burns/26744.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://ckingiptv.tk:8000/live/burns/burns/26743.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://ckingiptv.tk:8000/live/burns/burns/26742.ts
+#EXTINF:-1,ES: MOVISTAR F1
+http://ckingiptv.tk:8000/live/burns/burns/26741.ts
+#EXTINF:-1,ES: MOVISTAR FUTBAL HD
+http://ckingiptv.tk:8000/live/burns/burns/26740.ts
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://ckingiptv.tk:8000/live/burns/burns/26739.ts
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://ckingiptv.tk:8000/live/burns/burns/26738.ts
+#EXTINF:-1,ES: MOVISTAR MotoGP
+http://ckingiptv.tk:8000/live/burns/burns/26737.ts
+#EXTINF:-1,ES: MOVISTAR SERIES
+http://ckingiptv.tk:8000/live/burns/burns/26736.ts
+#EXTINF:-1,ES: MOVISTAR SERIES XTRA HD
+http://ckingiptv.tk:8000/live/burns/burns/26735.ts
+#EXTINF:-1,ES: MOVISTAR TOROS
+http://ckingiptv.tk:8000/live/burns/burns/26734.ts
+#EXTINF:-1,ES: NAT GEO WILD
+http://ckingiptv.tk:8000/live/burns/burns/26733.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://ckingiptv.tk:8000/live/burns/burns/26732.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC
+http://ckingiptv.tk:8000/live/burns/burns/26731.ts
+#EXTINF:-1,ES: National Geographic HD
+http://ckingiptv.tk:8000/live/burns/burns/26730.ts
+#EXTINF:-1,ES: NEOX
+http://ckingiptv.tk:8000/live/burns/burns/26729.ts
+#EXTINF:-1,ES: Nick Jr
+http://ckingiptv.tk:8000/live/burns/burns/26728.ts
+#EXTINF:-1,ES: NICKELODEON
+http://ckingiptv.tk:8000/live/burns/burns/26727.ts
+#EXTINF:-1,ES: NONSTOPEOPLE
+http://ckingiptv.tk:8000/live/burns/burns/26726.ts
+#EXTINF:-1,ES: NOVA
+http://ckingiptv.tk:8000/live/burns/burns/26725.ts
+#EXTINF:-1,ES: PARAMOUNT CH
+http://ckingiptv.tk:8000/live/burns/burns/26724.ts
+#EXTINF:-1,ES: Real Madrid TV
+http://ckingiptv.tk:8000/live/burns/burns/26723.ts
+#EXTINF:-1,ES: SYFY HD
+http://ckingiptv.tk:8000/live/burns/burns/26722.ts
+#EXTINF:-1,ES: TCM HD
+http://ckingiptv.tk:8000/live/burns/burns/26721.ts
+#EXTINF:-1,ES: TELECINCO HD
+http://ckingiptv.tk:8000/live/burns/burns/26720.ts
+#EXTINF:-1,ES: TNT
+http://ckingiptv.tk:8000/live/burns/burns/26719.ts
+#EXTINF:-1,ES: TV Canaria
+http://ckingiptv.tk:8000/live/burns/burns/26718.ts
+#EXTINF:-1,ES: VIAJAR HD
+http://ckingiptv.tk:8000/live/burns/burns/26717.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR F1 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1558.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR FORMULA 1
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1559.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : movistar Futbol
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1560.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES : MOVISTAR MOTOGP
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1561.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: 24 Horas
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1571.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: 40 TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1570.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: A&E
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1579.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: AMC
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1580.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: AXN HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1581.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: BABY TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/23.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: BARCA TV
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1569.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LA Liga FHD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/221.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 1 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1577.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN Laliga 1 HD Backup
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/220.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 2 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1576.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: beIN LaLIga 3 (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1575.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Bein Liga HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1582.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Bein Sport HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1583.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Boing
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1584.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal  ESTRENOS HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1612.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: CANAL COCINA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1585.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal De Las Estrellas
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1565.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: CANAL DECASA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1586.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Canal SERIES HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1587.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Caza y pesca
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1588.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Clan Tve
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1589.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: COMEDY CENTRAL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1568.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: COSMO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1590.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Crimen Investigation
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1563.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISCOVERY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1622.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISNEY CHANNEL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1623.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DISNEY XD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1625.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: DIVINITY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1591.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Energy
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1574.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: EUROSPORT 1
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1573.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: EUROSPORT 2
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1572.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: FDF
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1592.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: FOX HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1626.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: GOL Tv
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1593.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1629.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: IBERALIA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1594.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: LA 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1595.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: La Liga BAR HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1596.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: MEGA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1632.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Movistar Partidazo HD (event only)
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/177.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: MTV ESPANA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1562.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NEOX
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1597.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NICKELODEON HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1598.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Nonstop People
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1567.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: NOVA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1599.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: ODISEA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1600.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: PANDA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1601.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Paramount
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1564.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: Real Madrid Channel
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/839.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: SYFY
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1602.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES: TNT
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1603.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:ANTENA 3 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1604.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:AXN WHITE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1605.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CALLE 13 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1606.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CANAL  ACTION HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1607.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  COMEDIA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1608.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DCINE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1609.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DEPORTES 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1610.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  DEPORTES HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1611.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  FUTBOL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1613.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  GOLF HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1614.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  LIGA 2 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1615.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  LIGA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1616.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  SERIES XTRA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1617.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  TOROS HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1618.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:Canal  XTRA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1619.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:CUATRO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1620.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:DISCOVERY CHANNEL HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1621.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:DISNEY JUNIOR
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1624.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:FOX LIFE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1627.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:HISTORIA
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1628.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:LA 1 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1630.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:LA SEXTA HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1631.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NAT GEO WILD HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1633.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NATIONAL GEOGRAPHIC HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1634.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:NICK Jr
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1635.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TCM HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1636.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TELECINCO HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1637.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:TELEDEPORTE HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1638.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,ES:VIAJAR HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/1639.ts
+#EXTINF:-1,ES: BABY TV
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9242.ts
+#EXTINF:-1,ES: Bein Sports
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5434.ts
+#EXTINF:-1,ES: CRIME & INVESTIGATION
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9238.ts
+#EXTINF:-1,ES: ENERGY
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9235.ts
+#EXTINF:-1,ES: GOL TV
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9243.ts
+#EXTINF:-1,ES: HEAR TV MUSIC
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9240.ts
+#EXTINF:-1,ES: HEI TV MUSIC
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9239.ts
+#EXTINF:-1,ES: MEGA TV
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9236.ts
+#EXTINF:-1,ES: MIMUSICA HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9241.ts
+#EXTINF:-1,ES: XTRM
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/9237.ts
+#EXTINF:-1,ES: C 24 Horas
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5012.ts
+#EXTINF:-1,ES: C  Viajar
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5035.ts
+#EXTINF:-1,ES: C  Teledeporte
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5033.ts
+#EXTINF:-1,ES: C  Nova
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5030.ts
+#EXTINF:-1,ES: C  Nat Geo Wild
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5028.ts
+#EXTINF:-1,ES: C  FDF
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5024.ts
+#EXTINF:-1,ES: C  Estrenos
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5023.ts
+#EXTINF:-1,ES: Disney XD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5022.ts
+#EXTINF:-1,ES: C  Disney Junior
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5021.ts
+#EXTINF:-1,ES: C  Discovery HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5020.ts
+#EXTINF:-1,ES: C  Deportes
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5019.ts
+#EXTINF:-1,ES: C  Comedy Central
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5015.ts
+#EXTINF:-1,ES: C  Clan TVE
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5014.ts
+#EXTINF:-1,ES: C  AMC
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5013.ts
+#EXTINF:-1,ES:  C  Dcine Espanol
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5018.ts
+#EXTINF:-1,ES: TNT
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5034.ts
+#EXTINF:-1,ES: TCM
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5032.ts
+#EXTINF:-1,ES: SYFY HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5031.ts
+#EXTINF:-1,ES: FOX NEW,S
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/5025.ts
+#EXTINF:-1,ES: taquilla_3
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3688.ts
+#EXTINF:-1,ES: taquilla_2
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3689.ts
+#EXTINF:-1,ES: taquilla_1
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3690.ts
+#EXTINF:-1,ES: Historia
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1101.ts
+#EXTINF:-1,ES: Taquilla 6
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3773.ts
+#EXTINF:-1,ES: Taquilla 4
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3771.ts
+#EXTINF:-1,ES: Canal Plus Xtra
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1668.ts
+#EXTINF:-1,ES: Canal Plus Series Xtra
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1669.ts
+#EXTINF:-1,ES: Canal Liga
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1670.ts
+#EXTINF:-1,ES: Canal Plus Golf
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1671.ts
+#EXTINF:-1,ES: CanalPlus Decasa
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1672.ts
+#EXTINF:-1,ES: C Plus Cocina
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1673.ts
+#EXTINF:-1,ES: Canal + Accion
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1674.ts
+#EXTINF:-1,ES: Canal 2
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1675.ts
+#EXTINF:-1,ES: Canal   1
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1095.ts
+#EXTINF:-1,ES: Calle 13
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1103.ts
+#EXTINF:-1,ES:  AXN White
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1097.ts
+#EXTINF:-1,ES: :AXN HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1098.ts
+#EXTINF:-1,ES: MTV Spain
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1079.ts
+#EXTINF:-1,ES: History
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1080.ts
+#EXTINF:-1,ES: Fox Spain
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1082.ts
+#EXTINF:-1,ES: Canal HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1089.ts
+#EXTINF:-1,ES: Canal   Futbol
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1085.ts
+#EXTINF:-1,ES: REAL_MADRID
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3098.ts
+#EXTINF:-1,ES: C  Canal Odisea
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3099.ts
+#EXTINF:-1,ES: NATIONAL_GEOGRAPHIC
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3100.ts
+#EXTINF:-1,ES: MoviStar_MotoGp
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3101.ts
+#EXTINF:-1,ES: MOVISTAR_F1
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3102.ts
+#EXTINF:-1,ES: LA SEXTA
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3103.ts
+#EXTINF:-1,ES: La2
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3104.ts
+#EXTINF:-1,ES: La1 HD
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3105.ts
+#EXTINF:-1,ES: FOX LIFE
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3107.ts
+#EXTINF:-1,ES: EUROSPORT
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3108.ts
+#EXTINF:-1,ES: EURONEWS
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3109.ts
+#EXTINF:-1,ES: DISNEY CHANNEL
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3110.ts
+#EXTINF:-1,ES: CUATRO
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3111.ts
+#EXTINF:-1,ES: BEIN_SPORTS
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3112.ts
+#EXTINF:-1,ES: Barça
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3113.ts
+#EXTINF:-1,ES: ANDALUCIA_TV
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/3114.ts
+#EXTINF:-1,ES: Canal   Dcine
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1086.ts
+#EXTINF:-1,ES: Canal   Comedia
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1090.ts
+#EXTINF:-1,ES: Hollywood
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/4976.ts
+#EXTINF:-1,ES: CAZA Y PESCA
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/4977.ts
+#EXTINF:-1,ES: Barca TV
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1076.ts
+#EXTINF:-1,Smart Sport 1
+http://clientportalpro.com:2500/live/UObC8xt7ot/3mf9O0p9Mu/1966.ts
