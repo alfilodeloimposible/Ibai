@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTVLCOPT:DLNA.ORG: 1 (Game Snake Land S. y L.)(p2) (Game Snake Land S. y L.)
+#EXTINF:-1,SP | DISCOVERY CHANNEL
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2650.ts
+#EXTINF:-1,SP | DCINE
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2651.ts
+#EXTINF:-1,SP | Taquilla3
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2645.ts
+#EXTINF:-1,SP | CANAL SERIES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2655.ts
+#EXTINF:-1,SP | CANAL HOLLYWOOD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2656.ts
+#EXTINF:-1,SP | CUATRO
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2652.ts
+#EXTINF:-1,SP | ENERGY
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2660.ts
+#EXTINF:-1,SP | Antena 3 HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2659.ts
+#EXTINF:-1,SP | MEGA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2664.ts
+#EXTINF:-1,SP | Taquilla2
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2646.ts
+#EXTINF:-1,SP | CANAL+ DEPORTES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2661.ts
+#EXTINF:-1,SP | Taquilla1
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2647.ts
+#EXTINF:-1,SP | CAZA Y PESCA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2653.ts
+#EXTINF:-1,SP | CANAL ESTRENOS
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2657.ts
+#EXTINF:-1,SP | CANAL+ COMEDIA HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2640.ts
+#EXTINF:-1,SP | NOVA
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2642.ts
+#EXTINF:-1,SP | BEIN SPORT ES
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2639.ts
+#EXTINF:-1,SP | TVE LA1
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2666.ts
+#EXTINF:-1,SP | CANAL+ LIGA HD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2663.ts
+#EXTINF:-1,SP | NAT GEO WILD
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2643.ts
+#EXTINF:-1,SP | Taquilla4
+http://193.70.116.156:8080/live/aliguner1/fIZgJmqKp2/2644.ts
