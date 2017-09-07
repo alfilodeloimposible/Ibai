@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR lime]TDT[/COLOR]</title>
+<title>[COLOR lime]///////////----TDT---\\\\\\\\\\\\[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,11 +9,11 @@
 </item>
  
 <item>
-<title>[COLOR aqua]Movistar[/COLOR]</title>
+<title>[COLOR aqua]********Movistar********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/ibai2.xml</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/movistar.xml</externallink>
 </item>
  
 <item>
@@ -24,20 +24,11 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/series.xml</externallink>
 </item>
 <item>
-<title>[COLOR red]******************************[COLOR red]EXABYTE[/COLOR]**************************************[/COLOR]</title><
+<title>[COLOR red]******************************[COLOR red]Deportes[/COLOR]**************************************[/COLOR]</title><
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/lprueba.m3u</externallink>
-</item>
-<item>
-<title>********************************************************************]</title>
-<title>[COLOR yellow]Exabyte España[/COLOR]</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>http://exabytetv.info/ESP.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/deportes.m3u</externallink>
 </item>
 
- 
  
