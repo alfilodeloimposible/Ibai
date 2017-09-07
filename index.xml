@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR lime]///////////----TDT---\\\\\\\\\\\\[/COLOR]</title>
+<title>[COLOR lime]**********Tdt**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -9,7 +9,7 @@
 </item>
  
 <item>
-<title>[COLOR aqua]********Movistar********[/COLOR]</title>
+<title>[COLOR aqua]**********Movistar**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -17,14 +17,21 @@
 </item>
  
 <item>
-<title>[COLOR yellow]********[COLOR red]Series[/COLOR]******** [/COLOR]</title>
+<title>[COLOR yellow]**********Series**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/series.m3u</externallink>
 </item>
 <item>
-<title>[COLOR red]******************************[COLOR red]Deportes[/COLOR]**************************************[/COLOR]</title><
+<title>[COLOR yellow]**********Peliculas**********[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/series.m3u</externallink>
+</item>
+<item>
+<title>[COLOR red]**********Deportes( Being FR)**********[/COLOR]</title><
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
