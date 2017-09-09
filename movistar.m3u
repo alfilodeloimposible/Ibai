@@ -1,444 +1,163 @@
 #EXTM3U
-#EXTINF:-1,ratus42/[000] Movistar TV - Promocional
- 
-http://79.146.13.178:4022/udp/239.0.0.77:8208
-#EXTINF:-1,ratus42/[001] La 1
-http://79.146.13.178:4022/udp/239.0.0.76:8208
-#EXTINF:-1,ratus42/[002] La 2
-http://79.146.13.178:4022/udp/239.0.0.2:8208
-#EXTINF:-1,ratus42/[003] Antena 3
-http://79.146.13.178:4022/udp/239.0.0.3:8208
-#EXTINF:-1,ratus42/[004] Cuatro
-http://79.146.13.178:4022/udp/239.0.0.4:8208
-#EXTINF:-1,ratus42/[005] Tele 5
-http://79.146.13.178:4022/udp/239.0.0.5:8208
-#EXTINF:-1,ratus42/[006] La ***ta
-http://79.146.13.178:4022/udp/239.0.0.58:8208
-#EXTINF:-1,ratus42/[007] Telemadrid
-http://79.146.13.178:4022/udp/239.0.0.25:8208
-#EXTINF:-1,ratus42/[008] La Otra
-http://79.146.13.178:4022/udp/239.0.0.26:8208
-#EXTINF:-1,ratus42/[007] TV3
-http://79.146.13.178:4022/udp/239.0.0.23:8208
-#EXTINF:-1,ratus42/[008] Super3 33
-http://79.146.13.178:4022/udp/239.0.0.24:8208
-#EXTINF:-1,ratus42/[115] 8tv
-http://79.146.13.178:4022/udp/239.0.0.82:8208
-#EXTINF:-1,ratus42/[007] ETB 1
-http://79.146.13.178:4022/udp/239.0.0.35:8208
-#EXTINF:-1,ratus42/[008] ETB 2
-http://79.146.13.178:4022/udp/239.0.0.36:8208
-#EXTINF:-1,ratus42/[007] Canal Sur
-http://79.146.13.178:4022/udp/239.0.0.49:8208
-#EXTINF:-1,ratus42/[008] Canal Sur 2
-http://79.146.13.178:4022/udp/239.0.0.50:8208
-#EXTINF:-1,ratus42/[007] TV Canaria
-http://79.146.13.178:4022/udp/239.0.0.54:8208
-#EXTINF:-1,ratus42/[007] CMT
-http://79.146.13.178:4022/udp/239.0.0.55:8208
-#EXTINF:-1,ratus42/[007] TV Galicia
-http://79.146.13.178:4022/udp/239.0.0.53:8208
-#EXTINF:-1,ratus42/[007] IB3
-http://79.146.13.178:4022/udp/239.0.0.56:8208
-#EXTINF:-1,ratus42/[007] Aragon TV
-http://79.146.13.178:4022/udp/239.0.0.88:8208
-#EXTINF:-1,ratus42/[007] 7 Region de Murcia
-http://79.146.13.178:4022/udp/239.0.0.87:8208
-#EXTINF:-1,ratus42/[007] TV Principado de Asturias
-http://79.146.13.178:4022/udp/239.0.0.86:8208
-#EXTINF:-1,ratus42/[007] Extremadura TV
-http://79.146.13.178:4022/udp/239.0.0.73:8208
-#EXTINF:-1,ratus42/[007] Castilla y Leon 7
-http://79.146.13.178:4022/udp/239.0.0.109:8208
-#EXTINF:-1,ratus42/[009] Canal del Mes
-http://79.146.13.178:4022/udp/239.0.0.99:8208
-#EXTINF:-1,ratus42/[010] FOX
-http://79.146.13.178:4022/udp/239.0.0.74:8208
-#EXTINF:-1,ratus42/[011] AXN
-http://79.146.13.178:4022/udp/239.0.0.14:8208
-#EXTINF:-1,ratus42/[012] Calle 13
-http://79.146.13.178:4022/udp/239.0.0.13:8208
-#EXTINF:-1,ratus42/[013] TNT
-http://79.146.13.178:4022/udp/239.0.0.44:8208
-#EXTINF:-1,ratus42/[014] Fox life
-http://79.146.13.178:4022/udp/239.0.0.112:8208
-#EXTINF:-1,ratus42/[015] Cosmo TV
-http://79.146.13.178:4022/udp/239.0.0.15:8208
-#EXTINF:-1,ratus42/[016] AXN White
-http://79.146.13.178:4022/udp/239.0.0.62:8208
-#EXTINF:-1,ratus42/[017] Comedy Central
-http://79.146.13.178:4022/udp/239.0.0.68:8208
-#EXTINF:-1,ratus42/[018] SyFy
-http://79.146.13.178:4022/udp/239.0.0.111:8208
-#EXTINF:-1,ratus42/[019] Crimen & Investigacion
-http://79.146.13.178:4022/udp/239.0.0.57:8208
-#EXTINF:-1,ratus42/[020] FDF
-http://79.146.13.178:4022/udp/239.0.0.84:8208
-#EXTINF:-1,ratus42/[021] Neox
-http://79.146.13.178:4022/udp/239.0.0.107:8208
-#EXTINF:-1,ratus42/[022] Energy
-http://79.146.13.178:4022/udp/239.0.0.59:8208
-#EXTINF:-1,ratus42/[024] Divinity
-http://79.146.13.178:4022/udp/239.0.0.48:8208
-#EXTINF:-1,ratus42/[027] Nova
-http://79.146.13.178:4022/udp/239.0.0.106:8208
-#EXTINF:-1,ratus42/[029] Sundance Channel
-http://79.146.13.178:4022/udp/239.0.0.102:8208
-#EXTINF:-1,ratus42/[031] Hollywood
-http://79.146.13.178:4022/udp/239.0.0.16:8208
-#EXTINF:-1,ratus42/[032] MGM
-http://79.146.13.178:4022/udp/239.0.0.8:8208
-#EXTINF:-1,ratus42/[033] Disney Cinemagic
-http://79.146.13.178:4022/udp/239.0.0.9:8208
-#EXTINF:-1,ratus42/[034] TCM
-http://79.146.13.178:4022/udp/239.0.6.5:8208
-#EXTINF:-1,ratus42/[038] Paramount Channel
-http://79.146.13.178:4022/udp/239.0.0.90:8208
-#EXTINF:-1,ratus42/[040] Eurosport
-http://79.146.13.178:4022/udp/239.0.0.18:8208
-#EXTINF:-1,ratus42/[041] Eurosport 2
-http://79.146.13.178:4022/udp/239.0.0.37:8208
-#EXTINF:-1,ratus42/[042] Sportmania
-http://79.146.13.178:4022/udp/239.0.0.17:8208
-#EXTINF:-1,ratus42/[043] Teledeporte
-http://79.146.13.178:4022/udp/239.0.0.79:8208
-#EXTINF:-1,ratus42/[044] Iberalia
-http://79.146.13.178:4022/udp/239.0.5.6:8208
-#EXTINF:-1,ratus42/[050] Canal+ Liga
-http://79.146.13.178:4022/udp/239.0.0.42:8208
-#EXTINF:-1,ratus42/[051] Canal+ Liga Multi
-http://79.146.13.178:4022/udp/239.0.0.119:8208
-#EXTINF:-1,ratus42/[052] Canal+ Liga Multi 2
-http://79.146.13.178:4022/udp/239.0.0.120:8208
-#EXTINF:-1,ratus42/[053] Canal+ Liga Multi 3
-http://79.146.13.178:4022/udp/239.0.0.121:8208
-#EXTINF:-1,ratus42/[054] Canal+ Liga Multi 4
-http://79.146.13.178:4022/udp/239.0.0.122:8208
-#EXTINF:-1,ratus42/[055] Canal+ Liga de Campeones
-http://79.146.13.178:4022/udp/239.0.0.118:8208
-#EXTINF:-1,ratus42/[056] Gol 2 Internacional - Europa League
-http://79.146.13.178:4022/udp/239.0.0.251:8208
-#EXTINF:-1,ratus42/[057] Canal+ Liga de Campeones 2
-http://79.146.13.178:4022/udp/239.0.3.3:8208
-#EXTINF:-1,ratus42/[058] Canal+ Liga de Campeones 3/Europa League 2/Canal+ Liga Multi 5
-http://79.146.13.178:4022/udp/239.0.3.4:8208
-#EXTINF:-1,ratus42/[059] Canal+ Liga de Campeones 4/Europa League 3
-http://79.146.13.178:4022/udp/239.0.3.5:8208
-#EXTINF:-1,ratus42/[060] Canal+ Liga de Campeones 5/Europa League 4
-http://79.146.13.178:4022/udp/239.0.3.6:8208
-#EXTINF:-1,ratus42/[061] Canal+ Liga de Campeones 6/Europa League 5
-http://79.146.13.178:4022/udp/239.0.3.7:8208
-#EXTINF:-1,ratus42/[062] Canal+ Liga de Campeones 7/Europa League 6
-http://79.146.13.178:4022/udp/239.0.0.123:8208
-#EXTINF:-1,ratus42/[063] Canal+ Liga de Campeones 8/Europa League 7
-http://79.146.13.178:4022/udp/239.0.0.124:8208
-#EXTINF:-1,ratus42/[064] Futbol Replay
-http://79.146.13.178:4022/udp/239.0.0.97:8208
-#EXTINF:-1,ratus42/[070] National Geographic
-http://79.146.13.178:4022/udp/239.0.0.103:8208
-#EXTINF:-1,ratus42/[071] NAT GEO Wild
-http://79.146.13.178:4022/udp/239.0.0.89:8208
-#EXTINF:-1,ratus42/[072] Viajar
-http://79.146.13.178:4022/udp/239.0.0.20:8208
-#EXTINF:-1,ratus42/[073] Discovery Channel
-http://79.146.13.178:4022/udp/239.0.0.21:8208
-#EXTINF:-1,ratus42/[074] Odisea
-http://79.146.13.178:4022/udp/239.0.0.22:8208
-#EXTINF:-1,ratus42/[075] Historia
-http://79.146.13.178:4022/udp/239.0.0.19:8208
-#EXTINF:-1,ratus42/[076] A&E
-http://79.146.13.178:4022/udp/239.0.0.38:8208
-#EXTINF:-1,ratus42/[077] Cocina
-http://79.146.13.178:4022/udp/239.0.0.27:8208
-#EXTINF:-1,ratus42/[078] Decasa
-http://79.146.13.178:4022/udp/239.0.0.71:8208
-#EXTINF:-1,ratus42/[079] Discovery MAX
-http://79.146.13.178:4022/udp/239.0.0.32:8208
-#EXTINF:-1,ratus42/[080] Baby TV
-http://79.146.13.178:4022/udp/239.0.0.113:8208
-#EXTINF:-1,ratus42/[081] Disney Junior
-http://79.146.13.178:4022/udp/239.0.0.10:8208
-#EXTINF:-1,ratus42/[082] Canal Panda
-http://79.146.13.178:4022/udp/239.0.0.117:8208
-#EXTINF:-1,ratus42/[084] Nickelodeon
-http://79.146.13.178:4022/udp/239.0.0.69:8208
-#EXTINF:-1,ratus42/[085] Disney XD
-http://79.146.13.178:4022/udp/239.0.0.11:8208
-#EXTINF:-1,ratus42/[086] Disney Channel
-http://79.146.13.178:4022/udp/239.0.0.64:8208
-#EXTINF:-1,ratus42/[087] Boing
-http://79.146.13.178:4022/udp/239.0.0.66:8208
-#EXTINF:-1,ratus42/[088] Clan TVE
-http://79.146.13.178:4022/udp/239.0.0.80:8208
-#EXTINF:-1,ratus42/[090] Sol Musica
-http://79.146.13.178:4022/udp/239.0.0.39:8208
-#EXTINF:-1,ratus42/[091] 40 TV
-http://79.146.13.178:4022/udp/239.0.0.12:8208
-#EXTINF:-1,ratus42/[092] VH1
-http://79.146.13.178:4022/udp/239.0.0.75:8208
-#EXTINF:-1,ratus42/[100] Fox News
-http://79.146.13.178:4022/udp/239.0.7.65:8208
-#EXTINF:-1,ratus42/[101] BBC world
-http://79.146.13.178:4022/udp/239.0.0.30:8208
-#EXTINF:-1,ratus42/[102] CNNi
-http://79.146.13.178:4022/udp/239.0.0.40:8208
-#EXTINF:-1,ratus42/[103] Euronews
-http://79.146.13.178:4022/udp/239.0.0.28:8208
-#EXTINF:-1,ratus42/[104] Canal 24 Horas
-http://79.146.13.178:4022/udp/239.0.0.78:8208
-#EXTINF:-1,ratus42/[105] Al Jazeera (Inglés)
-http://79.146.13.178:4022/udp/239.0.7.66:8208
-#EXTINF:-1,ratus42/[106] France 24 (Inglés)
-http://79.146.13.178:4022/udp/239.0.7.67:8208
-#EXTINF:-1,ratus42/[107] Russia Today (Inglés)
-http://79.146.13.178:4022/udp/239.0.7.68:8208
-#EXTINF:-1,ratus42/[108] CNBC Europe
-http://79.146.13.178:4022/udp/239.0.7.69:8208
-#EXTINF:-1,ratus42/[109] CCTV-E
-http://79.146.13.178:4022/udp/239.0.0.65:8208
-#EXTINF:-1,ratus42/[110] TV5 Monde Europe
-http://79.146.13.178:4022/udp/239.0.0.31:8208
-#EXTINF:-1,ratus42/[111] Bloomberg
-http://79.146.13.178:4022/udp/239.0.0.29:8208
-#EXTINF:-1,ratus42/[112] Intereconomia TV
-http://79.146.13.178:4022/udp/239.0.0.63:8208
-#EXTINF:-1,ratus42/[114] 13 TV
-http://79.146.13.178:4022/udp/239.0.0.91:8208
-#EXTINF:-1,ratus42/ [116] I24 News
-http://79.146.13.178:4022/udp/239.0.0.220:8208
-#EXTINF:-1,ratus42/ [117] CNC World
-http://79.146.13.178:4022/udp/239.0.0.221:8208
-#EXTINF:-1,ratus42/[200] La Tienda en Casa
-http://79.146.13.178:4022/udp/239.0.0.98:8208
-#EXTINF:-1,ratus42/[288] Canal+ Liga de campeones 9
-http://79.146.13.178:4022/udp/239.0.3.2:8208
-#EXTINF:-1,ratus42/[030] Canal+1 Bar
-http://79.146.13.178:4022/udp/239.0.3.12:8208
-#EXTINF:-1,ratus42/[050] Canal+ Liga Bar
-http://79.146.13.178:4022/udp/239.0.3.8:8208
-#EXTINF:-1,ratus42/[055] Canal+ Liga de campeones Bar
-http://79.146.13.178:4022/udp/239.0.3.9:8208
-#EXTINF:-1,ratus42/[504] Cuatro HD
-http://79.146.13.178:4022/udp/239.0.0.177:8208
-#EXTINF:-1,ratus42/[505] Tele 5 HD
-http://79.146.13.178:4022/udp/239.0.0.176:8208
-#EXTINF:-1,ratus42/[517] Comedy Central HD
-http://79.146.13.178:4022/udp/239.0.0.174:8208
-#EXTINF:-1,ratus42/[520] FOX HD
-http://79.146.13.178:4022/udp/239.0.9.134:8208
-#EXTINF:-1,ratus42/[521] AXN HD
-http://79.146.13.178:4022/udp/239.0.9.131:8208
-#EXTINF:-1,ratus42/[541] MGM HD
-http://79.146.13.178:4022/udp/239.0.9.132:8208
-#EXTINF:-1,ratus42/[556] Gol 2 Internacional HD
-http://79.146.13.178:4022/udp/239.0.9.146:8208
-#EXTINF:-1,ratus42/[586] Disney Channel HD
-http://79.146.13.178:4022/udp/239.0.0.173:8208
-#EXTINF:-1,ratus42/[592] Nat Geo Wild HD
-http://79.146.13.178:4022/udp/239.0.9.136:8208
-#EXTINF:-1,ratus42/[594] Canal+ F?tbol Contingencia HD
-http://79.146.13.178:4022/udp/239.0.9.140:8208
-#EXTINF:-1,ratus42/[597] Canal+ Liga de Campeones 2 HD/Canal+ Liga Multi HD
-http://79.146.13.178:4022/udp/239.0.9.139:8208
-#EXTINF:-1,ratus42/[598] Canal+ Liga de Campeones HD
-http://79.146.13.178:4022/udp/239.0.9.138:8208
-#EXTINF:-1,ratus42/[599] Canal+ Liga HD
-http://79.146.13.178:4022/udp/239.0.9.129:8208
-#EXTINF:-1,ratus42/[599] Canal+ Liga HD Degustacion
-http://79.146.13.178:4022/udp/239.0.0.165:8208
-#EXTINF:-1,ratus42/[600] Eurosport HD
-http://79.146.13.178:4022/udp/239.0.9.135:8208
-#EXTINF:-1,ratus42/[600] Eurosport HD Nuevos paquetes
-http://79.146.13.178:4022/udp/239.0.9.144:8208
-#EXTINF:-1,ratus42/[600] Eurosport HD Degustacion
-http://79.146.13.178:4022/udp/239.0.0.166:8208
-#EXTINF:-1,ratus42/[629] Unitel Classica HD
-http://79.146.13.178:4022/udp/239.0.9.137:8208
-#EXTINF:-1,ratus42/[515] FOX life HD
-http://79.146.13.178:4022/udp/239.0.5.86:8208
-#EXTINF:-1,ratus42/[522] TNT HD
-http://79.146.13.178:4022/udp/239.0.5.87:8208
-#EXTINF:-1,ratus42/[523] Canal 13 HD
-http://79.146.13.178:4022/udp/239.0.5.74:8208
-#EXTINF:-1,ratus42/[526] Cosmopolitan HD
-http://79.146.13.178:4022/udp/239.0.5.71:8208
-#EXTINF:-1,ratus42/[527] AXN White HD
-http://79.146.13.178:4022/udp/239.0.5.79:8208
-#EXTINF:-1,ratus42/[529] Sundance Channel HD
-http://79.146.13.178:4022/udp/239.0.5.72:8208
-#EXTINF:-1,ratus42/[530] Sy-Fy HD
-http://79.146.13.178:4022/udp/239.0.5.75:8208
-#EXTINF:-1,ratus42/[533] Disney Cinemagic HD
-http://79.146.13.178:4022/udp/239.0.5.81:8208
-#EXTINF:-1,ratus42/[534] TCM HD
-http://79.146.13.178:4022/udp/239.0.5.89:8208
-#EXTINF:-1,ratus42/[540] Hollywood HD
-http://79.146.13.178:4022/udp/239.0.5.76:8208
-#EXTINF:-1,ratus42/[572] Viajar HD
-http://79.146.13.178:4022/udp/239.0.5.73:8208
-#EXTINF:-1,ratus42/[580] Discovery Channel HD
-http://79.146.13.178:4022/udp/239.0.5.77:8208
-#EXTINF:-1,ratus42/[581] National Geographic HD
-http://79.146.13.178:4022/udp/239.0.5.78:8208
-#EXTINF:-1,ratus42/[583] Odisea HD
-http://79.146.13.178:4022/udp/239.0.5.82:8208
-#EXTINF:-1,ratus42/[586] Disney Channel HD
-http://79.146.13.178:4022/udp/239.0.5.80:8208
-#EXTINF:-1,ratus42/[030] Canal + 1
-http://79.146.13.178:4022/udp/239.0.4.129:8208
-#EXTINF:-1,ratus42/[035] Extreme
-http://79.146.13.178:4022/udp/239.0.6.1:8208
-#EXTINF:-1,ratus42/[036] Somos
-http://79.146.13.178:4022/udp/239.0.6.4:8208
-#EXTINF:-1,ratus42/[045] Barca TV
-http://79.146.13.178:4022/udp/239.0.3.65:8208
-#EXTINF:-1,ratus42/[093] Unitel Classica
-http://79.146.13.178:4022/udp/239.0.3.193:8208
-#EXTINF:-1,ratus42/[096] *******
-http://79.146.13.178:4022/udp/239.0.5.5:8208
-#EXTINF:-1,ratus42/[120] Telefe Internacional
-http://79.146.13.178:4022/udp/239.0.8.3:8208
-#EXTINF:-1,ratus42/[121] Canal Estrellas
-http://79.146.13.178:4022/udp/239.0.8.193:8208
-#EXTINF:-1,ratus42/[122] Caracol TV Internacional
-http://79.146.13.178:4022/udp/239.0.7.129:8208
-#EXTINF:-1,ratus42/[123] TV Record
-http://79.146.13.178:4022/udp/239.0.8.2:8208
-#EXTINF:-1,ratus42/[124] TV Chile Internacional
-http://79.146.13.178:4022/udp/239.0.8.1:8208
-#EXTINF:-1,ratus42/[125] TV Colombia
-http://79.146.13.178:4022/udp/239.0.7.131:8208
-#EXTINF:-1,ratus42/[126] Azteca Mundo
-http://79.146.13.178:4022/udp/239.0.8.68:8208
-#EXTINF:-1,ratus42/[127] Cubavision
-http://79.146.13.178:4022/udp/239.0.8.67:8208
-#EXTINF:-1,ratus42/[128] TeleSUR
-http://79.146.13.178:4022/udp/239.0.8.69:8208
-#EXTINF:-1,ratus42/[140] Phoenix CNE
-http://79.146.13.178:4022/udp/239.0.7.193:8208
-#EXTINF:-1,ratus42/[141] InfoNews Channel
-http://79.146.13.178:4022/udp/239.0.7.194:8208
-#EXTINF:-1,ratus42/ [047] Movistar F1
-http://79.146.13.178:4022/udp/239.0.0.210:8208
-#EXTINF:-1,ratus42/ [048] Movistar MotoGP
-http://79.146.13.178:4022/udp/239.0.3.38:8208
-#EXTINF:-1,ratus42/ [215] Multicamara 6
-http://79.146.13.178:4022/udp/239.0.3.57:8208
-#EXTINF:-1,ratus42/ [216] Multicamara 5
-http://79.146.13.178:4022/udp/239.0.3.56:8208
-#EXTINF:-1,ratus42/ [217] Multicamara 4
-http://79.146.13.178:4022/udp/239.0.3.55:8208
-#EXTINF:-1,ratus42/ [218] Multicamara 3
-http://79.146.13.178:4022/udp/239.0.3.54:8208
-#EXTINF:-1,ratus42/ [219] Multicamara 2
-http://79.146.13.178:4022/udp/239.0.3.53:8208
-#EXTINF:-1,ratus42/ [220] Multicamara 1
-http://79.146.13.178:4022/udp/239.0.3.50:8208
-#EXTINF:-1,ratus42/ [221] Multi 1 F1
-http://79.146.13.178:4022/udp/239.0.3.29:8208
-#EXTINF:-1,ratus42/ [221] Multi 1 MotoGP
-http://79.146.13.178:4022/udp/239.0.3.29:8208
-#EXTINF:-1,ratus42/ [222] Multi 2
-http://79.146.13.178:4022/udp/239.0.3.52:8208
-#EXTINF:-1,ratus42/ [223] Multi 3
-http://79.146.13.178:4022/udp/239.0.3.46:8208
-#EXTINF:-1,ratus42/ [224] Multi 4
-http://79.146.13.178:4022/udp/239.0.3.47:8208
-#EXTINF:-1,ratus42/ [225] Multi 5
-http://79.146.13.178:4022/udp/239.0.3.48:8208
-#EXTINF:-1,ratus42/ [226] Multi 6
-http://79.146.13.178:4022/udp/239.0.3.49:8208
-#EXTINF:-1,ratus42/ [047] Movistar F1 HD
-http://79.146.13.178:4022/udp/239.0.5.90:8208
-#EXTINF:-1,ratus42/ [048] Movistar MotoGP HD
-http://79.146.13.178:4022/udp/239.0.5.107:8208
-#EXTINF:-1,ratus42/ [048] Movistar MotoGP HD Degustacion
-http://79.146.13.178:4022/udp/239.0.0.167:8208
-#EXTINF:-1,ratus42/ [215] Multicamara 6 HD
-http://79.146.13.178:4022/udp/239.0.5.127:8208
-#EXTINF:-1,ratus42/ [216] Multicamara 5 HD
-http://79.146.13.178:4022/udp/239.0.5.126:8208
-#EXTINF:-1,ratus42/ [217] Multicamara 4 HD
-http://79.146.13.178:4022/udp/239.0.5.125:8208
-#EXTINF:-1,ratus42/ [218] Multicamara 3 HD
-http://79.146.13.178:4022/udp/239.0.5.124:8208
-#EXTINF:-1,ratus42/ [219] Multicamara 2 HD
-http://79.146.13.178:4022/udp/239.0.5.123:8208
-#EXTINF:-1,ratus42/ [220] Multicamara 1 HD
-http://79.146.13.178:4022/udp/239.0.5.121:8208
-#EXTINF:-1,ratus42/ [221] Multi 1 F1 HD
-http://79.146.13.178:4022/udp/239.0.0.175:8208
-#EXTINF:-1,ratus42/ [221] Multi 1 MotoGP HD
-http://79.146.13.178:4022/udp/239.0.0.175:8208
-#EXTINF:-1,ratus42/ [222] Multi 2 HD
-http://79.146.13.178:4022/udp/239.0.5.122:8208
-#EXTINF:-1,ratus42/ [223] Multi 3 HD
-http://79.146.13.178:4022/udp/239.0.5.117:8208
-#EXTINF:-1,ratus42/ [224] Multi 4 HD
-http://79.146.13.178:4022/udp/239.0.5.118:8208
-#EXTINF:-1,ratus42/ [225] Multi 5 HD
-http://79.146.13.178:4022/udp/239.0.5.119:8208
-#EXTINF:-1,ratus42/ [226] Multi 6 HD
-http://79.146.13.178:4022/udp/239.0.5.120:8208
-#EXTINF:-1,ratus42/ [255] Multicamara 6 Moto GP
-http://79.146.13.178:4022/udp/239.0.1.149:8208
-#EXTINF:-1,ratus42/ [256] Multicamara 5
-http://79.146.13.178:4022/udp/239.0.1.150:8208
-#EXTINF:-1,ratus42/ [257] Multicamara 4
-http://79.146.13.178:4022/udp/239.0.1.151:8208
-#EXTINF:-1,ratus42/ [258] Multicamara 3
-http://79.146.13.178:4022/udp/239.0.1.152:8208
-#EXTINF:-1,ratus42/ [259] Multicamara 2
-http://79.146.13.178:4022/udp/239.0.1.153:8208
-#EXTINF:-1,ratus42/ [260] Multicamara 1
-http://79.146.13.178:4022/udp/239.0.1.154:8208
-#EXTINF:-1,ratus42/ [261] Multi 1
-http://79.146.13.178:4022/udp/239.0.1.155:8208
-#EXTINF:-1,ratus42/ [262] Multi 2
-http://79.146.13.178:4022/udp/239.0.1.156:8208
-#EXTINF:-1,ratus42/ [263] Multi 3
-http://79.146.13.178:4022/udp/239.0.1.157:8208
-#EXTINF:-1,ratus42/ [264] Multi 4
-http://79.146.13.178:4022/udp/239.0.1.158:8208
-#EXTINF:-1,ratus42/ [265] Multi 5
-http://79.146.13.178:4022/udp/239.0.1.159:8208
-#EXTINF:-1,ratus42/ [266] Multi 6
-http://79.146.13.178:4022/udp/239.0.1.160:8208
-#EXTINF:-1,ratus42/ [255] Multicamara 6 HD Moto GP
-http://79.146.13.178:4022/udp/239.0.5.149:8208
-#EXTINF:-1,ratus42/ [256] Multicamara 5 HD
-http://79.146.13.178:4022/udp/239.0.5.150:8208
-#EXTINF:-1,ratus42/ [257] Multicamara 4 HD
-http://79.146.13.178:4022/udp/239.0.5.151:8208
-#EXTINF:-1,ratus42/ [258] Multicamara 3 HD
-http://79.146.13.178:4022/udp/239.0.5.152:8208
-#EXTINF:-1,ratus42/ [259] Multicamara 2 HD
-http://79.146.13.178:4022/udp/239.0.5.153:8208
-#EXTINF:-1,ratus42/ [260] Multicamara 1 HD
-http://79.146.13.178:4022/udp/239.0.5.154:8208
-#EXTINF:-1,ratus42/ [261] Multi 1 HD
-http://79.146.13.178:4022/udp/239.0.5.155:8208
-#EXTINF:-1,ratus42/ [262] Multi 2 HD
-http://79.146.13.178:4022/udp/239.0.5.156:8208
-#EXTINF:-1,ratus42/ [263] Multi 3 HD
-http://79.146.13.178:4022/udp/239.0.5.157:8208
-#EXTINF:-1,ratus42/ [264] Multi 4 HD
-http://79.146.13.178:4022/udp/239.0.5.158:8208
-#EXTINF:-1,ratus42/ [265] Multi 5 HD
-http://79.146.13.178:4022/udp/239.0.5.159:8208
-#EXTINF:-1,ratus42/ [266] Multi 6 HD
-http://79.146.13.178:4022/udp/239.0.5.160:8208
-#EXTINF:-1,ratus42/[054] Movistar F?tbol
-http://79.146.13.178:4022/udp/239.0.1.1:8208
-#EXTINF:-1,ratus42/[054] Movistar F?tbol HD
-http://79.146.13.178:4022/udp/239.0.0.170:8208
-#EXTINF:-1,ratus42/ [058] Movistar F?tbol 2
-http://79.146.13.178:4022/udp/239.0.3.4:8208
-#EXTINF:-1,ratus42/ [059] Movistar F?tbol 3
-http://79.146.13.178:4022/udp/239.0.3.5:8208
-#EXTINF:-1,ratus42/ [060] Movistar F?tbol 4
-http://79.146.13.178:4022/udp/239.0.3.6:8208
-#EXTINF:-1,ratus42/ [061] Movistar F?tbol 5
-http://79.146.13.178:4022/udp/239.0.3.7:8208
-#EXTINF:-1,ratus42/ [062] Movistar F?tbol 6
-http://79.146.13.178:4022/udp/239.0.0.123:8208
+#EXTINF:-1,[COLOR WHITE] [/COLOR]SUSCRIBETE--www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA RECOPILADA POR EL CANAL www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,Entretenimiento:Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,Chile:TV Red Chile
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+#EXTINF:-1,Colombia:RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?
+#EXTINF:-1,Movistar Series
+http://edge23.applive.online/live/vera6669184f0b71095624027/index.m3u8
+#EXTINF:-1,Telemundo Op2
+http://tecnotv.xyz/media/telemundo2
+#EXTINF:-1,Telemundo Op3
+http://tecnotv.xyz/media/telemundo3
+#EXTINF:-1,MEXICO:Las Estrellas Latinoamerica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR]SUSCRIBETE--www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA RECOPILADA POR EL CANAL www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,MEXICO:Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,CentroAmerica:TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1,CINE:CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8?www.tecnotv.info
+#EXTINF:-1,SudAmerica:RCN Colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,SudAmerica:Caracol
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?&dnt=true&ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html
+#EXTINF:-1,[COLOR WHITE] [/COLOR]SUSCRIBETE--www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,[COLOR WHITE] [/COLOR]LISTA RECOPILADA POR EL CANAL www.youtube.com/LISTASIPTVFREE
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,SudAmerica:TLT La Tele Tuya
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:-1,NOTICIAS:CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?www.tecnotv.info
+#EXTINF:-1,SudAmerica:Willax TV
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+#EXTINF:-1,Cultura:DW Latino
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:Antena 3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1,Entretenimiento:Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:NiuMedia
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,Entretenimiento:Telemundo
+http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
+#EXTINF:-1,Entretenimiento:ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:Las estrellas opc2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,Entretenimiento:Multimedios
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Entretenimiento:Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?iptvgratis?chile.m3u8?
+#EXTINF:-1,Entretenimiento:Ve Plus
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8?
+#EXTINF:-1,Entretenimiento:A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1,Entretenimiento:ForoTV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Entretenimiento:360TV
+http://ar.watcha.live/ch12/full.m3u8
+#EXTINF:-1,Entretenimiento:America TV
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/chunklist_b346000.m3u8
+#EXTINF:-1,Entretenimiento:Telefe
+http://ar.watcha.live/ch6/full.m3u8
+#EXTINF:-1,Entretenimiento:Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1,Entretenimiento:Univision
+http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8?
+#EXTINF:-1,Entretenimiento:Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+#EXTINF:-1,Entretenimiento:Uno
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+#EXTINF:-1,Entretenimiento:+HD
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+#EXTINF:-1,Infantil:Yes
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+#EXTINF:-1,Infantil:3ABN Kids
+http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Infantil:Paka Paka
+http://ar.watcha.live/ch15/hi.m3u8
+#EXTINF:-1,Infantil:TaTeTi
+http://ar.watcha.live/ch16/hi.m3u8
+#EXTINF:-1,Deportes:TodoDeportes
+http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/chunklist.m3u8?wowzasessionid=1301484991
+#EXTINF:-1,Deportes:DeporTV
+http://ar.watcha.live/ch8/full.m3u8
+#EXTINF:-1,Musica:Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,Musica:Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,Musica:Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Musica:Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:-1,Musica:Banda Ancha
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:-1,Musica:HipHopTV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+#EXTINF:-1,Musica:Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Musica:VH1
+http://ryuk.onetvgratis.com/lstream4/590830517efd824f7a2fe6d6/5900bc65970b1071e240b0cc/_/703.flv
+#EXTINF:-1,Musica:SON POPULAR
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+#EXTINF:-1,Musica:Virgin Music
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,Musica:DJING CLASSIC
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1,Musica:Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1,MC Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,Music:Radio One HD
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:-1,Musica:Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1,Musica:RetroTV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Cultura:NASA TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:-1,Cultura:TravelHD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,Cultura:Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+#EXTINF:-1,Noticias:Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,Noticias:Cablenoticias
+http://cnmedia.eastus2.cloudapp.azure.com:1935/live/smil:cablenoticiastv.smil/chunklist_w1305412883_b3628000_slES.m3u8
+#EXTINF:-1,Religion:Televida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,Religion:3ABN Latino
+http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Religion:La Voz de Maria
+http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w2115659573.m3u8
+#EXTINF:-1,España:NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,España:MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1,ESPAÑA:Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:-1,España:La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,España:Cuatro
+http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_1.m3u8
+#EXTINF:-1,Colombia:Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Argentina:TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
