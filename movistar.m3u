@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Movistar acción HD
-#multi
+
 http://edgooo5.telesport.pw/live/plusaccion/index.m3u8
+
+#EXTINF:-1,Movistar acción1 HD
+
 http://edgooo7.telesport.pw/live/plusaccion/2277.ts
-#multi
+
+#EXTINF:-1,Movistar acción2 HD
+
+http://cinestrenostv.tv/canales/nacionales/plus-accion.php
