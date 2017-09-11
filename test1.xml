@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Antena3 </title>        
-<urlsolve><iframe> http://cinestrenostv.tv/canales/nacionales/plus-accion.php</iframe></urlsolve>
-<thumbnail>http://img3.wikia.nocookie.net/__cb20140927135113/logopedia/images/7/7b/Antena_3_noticias_2014_blanco.png</thumbnail>
-<fanart>http://shop.rhodani.com/img/cms/tienda-bilbao-interior2.jpg</fanart>
-</item>
+            <title>[COLOR white][COLOR blue]• [/COLOR] Canal + [COLOR red] - Sportdevil[/COLOR]</title>
+            <sportsdevil>http://verplusonline.com/ver-canal-historia-en-directo-y-gratis-en-vivo</sportsdevil>
+            <referer>http://livesports.pw/embedn.php?file=axnues&width=650&height=397</referer>
+            <thumbnail>http://img3.wikia.nocookie.net/__cb20111122151715/logopedia/images/f/f9/Canal_hd.png</thumbnail>
+            </item>
 <item>
 <title>Real Madrid Tv </title>        
 <urlsolve>http://edge9207.applive.online/live/verfoxespana247756767558f1/index.m3u8</urlsolve>
