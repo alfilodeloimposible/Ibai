@@ -31,22 +31,24 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/juego%20de%20tronos.xml</externallink>
 </item>
 <item>
-<title>[COLOR red]**********Deportes( Being FR)**********[/COLOR]</title><
+<title>[COLOR red]**********Deportes( Being FR)**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/deportes.m3u</externallink>
 </item>
-<title>[COLOR red]**********Películas Oeste**********[/COLOR]</title><
+<item>
+<title>[COLOR red]**********Películas Oeste**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/peliculas%20oeste.m3u</externallink>
 </item>
-<title>[COLOR red]**********Películas Thriller**********[/COLOR]</title><
+<item>
+<title>[COLOR red]**********Películas Thriller**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/peliculas%20Thriller.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/Pelis%20Thriller.m3u</externallink>
 </item>
  
