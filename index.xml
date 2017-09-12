@@ -36,15 +36,25 @@
 </item>
 
 <item>
-<title>[COLOR blue]**********Roja Directa**********[/COLOR]</title>
+<title>[COLOR blue]Roja Directa[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/rojadirecta.xml</externallink>
 </item>
  
+ 
 <item>
-<title>[COLOR lime]**********Tdt**********[/COLOR]</title>
+<title>[COLOR skyblue]TV 24/7[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/rojadirecta.xml</externallink>
+</item>
+
+ 
+<item>
+<title>[COLOR lime]Tdt[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -52,7 +62,7 @@
 </item>
  
 <item>
-<title>[COLOR aqua]**********Movistar+**********[/COLOR]</title>
+<title>[COLOR aqua]Movistar+[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -60,35 +70,35 @@
 </item>
  
 <item>
-<title>[COLOR yellow]**********Movistar+ Opción 2**********[/COLOR]</title>
+<title>[COLOR yellow]Movistar+ Opción 2[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/lprueba.xml</externallink>
 </item>
 <item>
-<title>[COLOR yellow]**********Juego de Tronos**********[/COLOR]</title>
+<title>[COLOR yellow]Juego de Tronos[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/juego%20de%20tronos.xml</externallink>
 </item>
 <item>
-<title>[COLOR red]**********Deportes( Being FR)**********[/COLOR]</title>
+<title>[COLOR red]Deportes( Being FR)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/deportes.m3u</externallink>
 </item>
 <item>
-<title>[COLOR cyan]**********Películas Oeste**********[/COLOR]</title>
+<title>[COLOR cyan]Películas Oeste[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/peliculas%20oeste.m3u</externallink>
 </item>
 <item>
-<title>[COLOR yellow]**********Películas Thriller**********[/COLOR]</title>
+<title>[COLOR yellow]Películas Thriller[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
