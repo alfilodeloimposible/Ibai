@@ -35,6 +35,13 @@
 
 </item>
 
+<item>
+<title>[COLOR blue]**********Roja Directa**********[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/rojadirecta.xml</externallink>
+</item>
  
 <item>
 <title>[COLOR lime]**********Tdt**********[/COLOR]</title>
@@ -74,14 +81,14 @@
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/deportes.m3u</externallink>
 </item>
 <item>
-<title>[COLOR red]**********Películas Oeste**********[/COLOR]</title>
+<title>[COLOR cyan]**********Películas Oeste**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/alfilodeloimposible/Ibai/master/peliculas%20oeste.m3u</externallink>
 </item>
 <item>
-<title>[COLOR red]**********Películas Thriller**********[/COLOR]</title>
+<title>[COLOR yellow]**********Películas Thriller**********[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
