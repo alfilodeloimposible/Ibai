@@ -1,19 +1,5 @@
  
 
-
-<item>
-<title>[UPPERCASE][COLOR skyblue] pepestrenos [/UPPERCASE][/COLOR] </title>
-<link>$doregex[get-id]|User-Agent=iPad</link>
-<regex>
-<name>get-id</name>
-<expres>source: '(.*?)'</expres>
-<page>http://vergol.com</page>
-<referer>http://vergol.com/live/plusestrenos.php</referer>
-<agent>Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36</agent>
-</regex>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
-
-
 <item>
 <title>[UPPERCASE][COLOR skyblue] AXN [/UPPERCASE][/COLOR] </title>
 <link>$doregex[get-id]|User-Agent=iPad</link>
@@ -24,7 +10,7 @@
 <referer>http://wwww.dinostream.pw/embed.php?c=105984&width=650&height=400</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
  
 
 
@@ -40,7 +26,7 @@
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
 
 
 
@@ -57,7 +43,7 @@
 </regex>
 
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
  
 
  
@@ -76,7 +62,7 @@
 </regex>
 
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
  
  
 
@@ -92,7 +78,7 @@
 <agent>iPad</agent>
 </regex>
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
 
 
 
@@ -111,7 +97,7 @@
 </regex>
 
 
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
 
 
 
@@ -126,7 +112,7 @@
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 <agent>iPad</agent>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
 
  
 
@@ -139,7 +125,7 @@
 <page>http://vergol.com/live2/tnt.php</page>
 <referer>http://vertelevisor.com/tv/nacionales/axn.html</referer>
 </regex>
-<thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail>   </item>
+<thumbnail>http://stmedia.bolsamania.com/web/img/images_uploaded/5/4/movistarpluscanales.jpg</thumbnail>   </item>
  
  
  <item><title>[UPPERCASE][COLOR skyblue] Calle 13 [/UPPERCASE][/COLOR] </title>
