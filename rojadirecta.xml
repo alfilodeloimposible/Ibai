@@ -3,7 +3,7 @@
  
  
 <item>
-<title>[COLOR aqua]______________________________________[COLOR aqua][B]_________________[/B][/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
+<title>[COLOR aqua]______________________________________[COLOR aqua]_________________/COLOR][/COLOR][COLOR aqua]_____________________________________[B][/B] [/COLOR]</title>
 <fanart>ignoreme.me</fanart>
 <thumbnail>ignoreme.me</thumbnail>
 <link>ignoreme.me</link>
@@ -50,6 +50,14 @@
 <page>$doregex[pagina]</page>
 <agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
 <referer>http://www.vipgoal.net/C+Liga/35576/Canal-plus-liga-en-directo.html</referer>
+</regex>
+
+ <regex>
+<name>m3u8</name>
+<expres>$doregex[gada]".*value="(.*?)"</expres> 
+<page>$doregex[pagina]</page>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<referer>http://www.vipgoal.net/live-football/52205/watch-Deportivo-La-Coru%C3%B1a-vs-Deportivo-Alav%C3%A9s-live.html</referer>
 </regex>
  
  <regex>
